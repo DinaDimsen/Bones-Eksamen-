@@ -1,0 +1,2852 @@
+# Translation of Stable (latest release) in Finnish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-12 15:12:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:142
+msgid "Get Account Activity"
+msgstr "Nouda tilin tapahtumat"
+
+#: admin/partials/menu/account-details.php:24
+msgid "Get Profile Info."
+msgstr "Nouda profiilin tiedot."
+
+#: admin/partials/menu/account-details.php:48
+msgid "Get Account Details"
+msgstr "Nouda tilin tiedot"
+
+#: admin/partials/menu/account-details.php:72
+msgid "Get Chimp Chatter"
+msgstr "Nouda simpanssin pulinat"
+
+#: admin/partials/view-list.php:135
+msgid "Get Subscriber Count"
+msgstr "Nouda tilaajien lukumäärä"
+
+#: admin/partials/view-user.php:43 public/classes/checkbox-integrations.php:52
+#: public/classes/checkbox-integrations.php:95
+msgid "Get Member Info"
+msgstr "Nouda jäsenen tiedot"
+
+#: public/classes/checkbox-integrations.php:193
+msgid "Checkbox Integration Subscribe User"
+msgstr "Käyttäjä tilaajaksi liitetyllä valintaruudulla"
+
+#: public/partials/ajax/class.public_ajax.php:99
+msgid "Send Update Profile Email - Get Account Lists"
+msgstr "Lähetä Päivitä profiili sähköposti - Nouda tilien lista"
+
+#: public/partials/ajax/class.public_ajax.php:119
+msgid "Send Update Profile Email - Get Account Details"
+msgstr "Lähetä Päivitä profiili sähköposti - Nouda tilien tiedot"
+
+#: public/partials/ajax/class.public_ajax.php:143
+msgid "Send Update Profile Email - Get Member Info."
+msgstr "Lähetä Päivitä profiili sähköposti - Nouda jäsenten tiedot."
+
+#: public/partials/shortcodes/process/process_form_submission.php:183
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:185
+msgid "Subscribe New User"
+msgstr "Tee uusi käyttäjä tilaajaksi"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2766
+msgid "Unsubscribe User"
+msgstr "Peru tilaus käyttäjältä"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2766
+msgid "Manage List Page"
+msgstr "Hallitse listasivua"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2866
+msgid "Get List IDs"
+msgstr "Hae listan tunnukset/ID"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2866
+msgid "Clear API Cache"
+msgstr "Pyyhi rajapinnan/API välimuisti"
+
+#: admin/partials/ajax/add_field_to_form.php:22
+#: admin/partials/ajax/process_ajax.php:29 admin/partials/edit-form.php:108
+#: admin/partials/view-list.php:44 admin/partials/view-user.php:120
+#: public/partials/shortcodes/process/process_form_submission.php:227
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:222
+msgid "Get Merge Variables"
+msgstr "Nouda yhdistämisen muuttujat"
+
+#: admin/partials/ajax/add_field_to_form.php:22
+msgid "Add Field to Form"
+msgstr "Lisää lomakkeeseen kenttä"
+
+#: admin/partials/ajax/add_field_to_form.php:26
+#: admin/partials/ajax/add_interest_group_to_form.php:26
+msgid "Error: %s"
+msgstr "Virhe: %s"
+
+#: admin/partials/ajax/add_interest_group_to_form.php:22
+#: admin/partials/ajax/class.ajax.php:105 admin/partials/edit-form.php:130
+#: admin/partials/view-list.php:69
+msgid "Get Interest Groups"
+msgstr "Nouda ryhmiä"
+
+#: admin/partials/ajax/add_interest_group_to_form.php:22
+msgid "Add Interest Group to Form"
+msgstr "Lisää ryhmä lomakkeeseen"
+
+#: admin/partials/ajax/class.ajax.php:61
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:82
+#: admin/partials/edit-form.php:83 admin/partials/menu/lists.php:24
+#: admin/partials/menu/manage-forms.php:34
+#: admin/partials/menu/manage-lists.php:24
+#: admin/partials/menu/options-sections/integration-settings.php:105
+#: admin/partials/view-list.php:22 admin/partials/view-user.php:92
+#: public/partials/shortcodes/yikes-mailchimp-subscriber-count.php:83
+msgid "Get Account Lists"
+msgstr "Nouda tilien lista"
+
+#: admin/partials/ajax/class.ajax.php:61
+msgid "MailChimp Widget"
+msgstr "MailChimp-vimpain"
+
+#: admin/partials/view-list.php:73
+msgid "Interest groups are not enabled for this list."
+msgstr "Ryhmiä ei ole otettu käyttöön tälle listalle."
+
+#: admin/partials/view-list.php:241
+msgid "Are you sure you want to unsubscribe %s from this mailing list?"
+msgstr "Haluatko varmasti perua %s tilauksen tältä listalta?"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1099
+msgid "Enter reCAPTCHA Site Key"
+msgstr "Kirjoita reCAPTCHA sivuston avain (Site Key)"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1106
+msgid "Enter reCAPTCHA Secret Key"
+msgstr "Kirjoita reCAPTCHA salainen avain (Secret Key)"
+
+#: admin/partials/edit-form.php:762 admin/partials/edit-form.php:778
+msgid "\"user already subscribed\""
+msgstr "\"käyttäjä on jo tilaaja\""
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1581
+msgid "Enter Custom URL"
+msgstr "Kirjoita mukautettu verkko-osoite"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1159
+msgid "Your API key appears to be invalid."
+msgstr "Annettu rajapinnan/API avain ei kelpaa."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1571
+msgid "Custom URL"
+msgstr "Mukautettu verkko-osoite/URL"
+
+#: admin/partials/edit-form.php:375
+msgid "If you are having issues with your theme not displaying the inline form properly, please see the following %s."
+msgstr "Jos käytössä oleva teema ei näytä lomaketta oikein rivin sisällä, tutustu tähän %s."
+
+#: admin/partials/edit-form.php:375
+msgid "knowledge base article"
+msgstr "tietämyskannan artikkeliin"
+
+#: public/partials/ajax/class.public_ajax.php:186
+msgid "%s Update email successfully sent. Please check your inbox for the message."
+msgstr "%s päivityssähköposti lähetettiin. Tarkasta sähköpostiohjelman saapuneet viestit."
+
+#: public/partials/ajax/class.public_ajax.php:193
+msgid "%s Email failed to send. Please contact the site administrator."
+msgstr "%s sähköpostia ei lähetetty. Ota yhteyttä sivuston ylläpitäjään."
+
+#: public/partials/ajax/class.public_ajax.php:159
+msgid "Error sending update profile email. <strong>Error: %s</strong>. Please contact the site administrator."
+msgstr "Tapahtui virhe kun lähetettiin profiilin päivityssähköpostia. <strong>Virhe: %s</strong>Ota yhteyttä sivuston ylläpitäjään."
+
+#: public/partials/shortcodes/process/process_form_submission.php:45
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:67
+msgid "Please check the reCAPTCHA field."
+msgstr "Tarkasta reCAPTCHA-kenttä, ole hyvä."
+
+#: public/partials/shortcodes/process/process_form_submission.php:190
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:193
+msgid " To update your MailChimp profile, please %s."
+msgstr "Kun haluat päivittää MailChimp-profiilin, ole hyvä %s."
+
+#: public/partials/shortcodes/process/process_form_submission.php:190
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:193
+msgid "click to send yourself an update link"
+msgstr "klikkaamalla lähetät itsellesi päivityslinkin"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:51
+msgid "With a ton of help from the WordPress community, we've been able to support 7 international languages. We're always looking for additional translators, so if you are multi-lingual and can help translate things - hop into glotpress and help contribute to future development of this plugin."
+msgstr "WordPress yhteisön suurella tuella olemme saaneet tuen 7 kielelle. Haemme jatkuvasti lisää kääntäjiä joten jos olet monikielinen ja pystyt käännöstyöhön - suuntaa GlotPress käännösympäristöön ja avustat tämän lisäosan tulevaisuuden kehityksessä."
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:53
+msgid "Easy Forms for MailChimp | GlotPress"
+msgstr "Easy Forms for MailChimp | GlotPress"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:53
+msgid "GlotPress"
+msgstr "GlotPress"
+
+#: admin/partials/welcome-page/welcome.php:54
+msgid "Welcome to the most powerful MailChimp integration for WordPress. Easy Forms for MailChimp by YIKES v%s is ready to help take your mailing lists to the next level!"
+msgstr "Tervetuloa tehokkaimpaan WordPressin ja MailChimp-palvelun liitokseen. Easy Forms for MailChimp by YIKES v%s -lisäosa on valmis johdattamaan postituslistasi korkeammalle tasolle!"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:31
+msgid "YIKES Easy Forms for MailChimp was developed with our international users in mind. Not only will you find the plugin to be i18n ready, but you'll also find our datepickers to be localized for mm/dd/yyyy or dd/mm/yyyy formats. Everything is automatic and gets localized based on the language of your site. It's like magic!"
+msgstr "YIKES Easy Forms for MailChimp -lisäosa kehitettiin huomioimalla kansainväliset käyttäjämme. Lisäosa on valmis kansainvälistämiseen (i18n) ja päivämäärän esitys voidaan vaihtaa kk/pp/vvvv ja pp/kk/vvvv -esitystapojen välillä. Kaikki paikallistetaan automaattisesti sivustolle valitun kielen mukaan. Se toimii kuin taikasanalla!"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:33
+msgid "Localized Arabic Calendar"
+msgstr "Paikallistettu arabialainen kalenteri"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:41
+msgid "Knowledge Base & GlotPress Support"
+msgstr "Tietämyskanta & GlotPress tuki"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:43
+msgid "GlotPress Localized Precentage"
+msgstr "GlotPress paikallistamisen prosentti"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:45
+msgid "Since the initial release of this Easy Forms for MailChimp by YIKES we've been tirelessly working on putting together a collection of help articles ranging from troubleshooting tips to customization options. We've also included a collection of code snippets from some of our most widely asked questions. Now you can access some of our most popular articles right from within the plugin."
+msgstr "Tämän Easy Forms for MailChimp by YIKES -lisäosan julkaisun alusta saakka olemme väsymättä työskennelleet jotta saamme koottua kokoelman tukiartikkeleita ongelmatilanteiden ratkaisusta aina mukauttamis vinkkeihin."
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:47
+msgid "Support | Knowledge Base"
+msgstr "Tuki | Tietämyskanta"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:47
+msgid "Support → Knowledge Base Articles"
+msgstr "Tuki → Tietämyskannan artikkelit"
+
+#: admin/partials/edit-form.php:459
+msgid "End Time"
+msgstr "Loppuu kello"
+
+#: admin/partials/edit-form.php:462
+msgid "Set the dates that this form should no longer display on your site."
+msgstr "Aseta päiväys ja aika jolloin tämän lomakkeen esittäminen lopetetaan sivustolla."
+
+#: admin/partials/edit-form.php:465
+msgid "Pending Message"
+msgstr "Odottaa viesti"
+
+#: admin/partials/edit-form.php:477
+msgid "Set the message that should display prior to the form being active."
+msgstr "Aseta viesti joka näytetään kun lomake ei ole vielä käytössä."
+
+#: admin/partials/edit-form.php:480
+msgid "Expired Message"
+msgstr "Sulkeutunut viesti"
+
+#: admin/partials/edit-form.php:492
+msgid "Set the message that should display once the end date has passed for this form."
+msgstr "Aseta viesti joka näytetään kun tämä lomake ei ole enää käytössä."
+
+#: admin/partials/edit-form.php:498
+msgid "Require Login"
+msgstr "Vaadi kirjautuminen"
+
+#: admin/partials/edit-form.php:500
+msgid "Require users to be logged in before they can view and submit this opt-in form."
+msgstr "Edellytä käyttäjiltä kirjautumista ennen kuin he näkevät tämän liittymislomakkeen ja voivat lähettää sen."
+
+#: admin/partials/edit-form.php:504
+msgid "Required Login Message"
+msgstr "Vaaditaan kirjautuminen viesti"
+
+#: admin/partials/edit-form.php:516
+msgid "Set the message that non-logged in users should see when viewing this form."
+msgstr "Aseta viesti joka näytetään käyttäjille jotka eivät ole kirjautuneena sivustolle."
+
+#: admin/partials/edit-form.php:517
+msgid "To display a login form, use %s"
+msgstr "Käytä %s-lyhytkoodia kun haluat sijoittaa kirjautumislomakkeen."
+
+#: admin/partials/edit-form.php:536
+msgid "Form Settings Explained"
+msgstr "Lomakkeen asetukset selitettynä"
+
+#: admin/partials/edit-form.php:540
+msgid "Classes"
+msgstr "Luokat"
+
+#: admin/partials/edit-form.php:540
+msgid "Add additional classes to this form, allowing you to target it more easily for customization via CSS."
+msgstr "Lisää CSS-luokkia tähän lomakkeeseen jotta voit mukauttamisessa helpommin kohdistaa niihin CSS-muotoiluja."
+
+#: admin/partials/edit-form.php:541
+msgid "Toggle the layout of this form between single column and an inline layout. The inline layout places all of your form fields and the submit button on a single line."
+msgstr "Vaihda lomakkeen asettelun tila sarake- ja rivin sisällä tilojen välillä. Rivin sisällä tilassa kaikki lomakkeen kentät ja lähetä painike sijoitetaan yhdelle riville."
+
+#: admin/partials/edit-form.php:542
+msgid "Adjust setting specific to the submit button. Change the submit button text, or set it to a specified image. Use the \"Submit Button Classes\" to  assign additional classes to your submit button - ensuring it fits better into your theme."
+msgstr "Muuta lähetä painikkeeseen liittyviä asetuksia. Vaihda lähetä painikkeen teksti tai vaihda se kuvaksi. \"Lähetä painikkeen luokat\" kohdassa voit asettaa painikkeelle CSS-luokkia - näin se sulautuu paremmin teemaan."
+
+#: admin/partials/edit-form.php:543
+msgid "Adjust the restrictions for this form. Limit form visibility to a given time period, require users to be logged in to sign up or combine the two!"
+msgstr "Aseta rajoituksia tälle lomakkeelle. Rajaa lomakkeen esitys tietylle aikavälille, edellytä käyttäjiltä kirjautumista ennen liittymistä tai yhdistä nämä molemmat!"
+
+#: admin/partials/view-list.php:375
+msgid "%d Interest Group"
+msgid_plural "%d Interest Groups"
+msgstr[0] "%d Sidosryhmä"
+msgstr[1] "%d Sidosryhmää"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:5
+msgid "All New Form Settings"
+msgstr "Täysin uusitut lomakkeen asetukset"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:7
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:9
+msgid "New Form Settings"
+msgstr "Uudet lomakkeen asetukset"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:11
+msgid "In version 6.0.3.8 of Easy Forms for MailChimp by YIKES we've added an additional layer of customization. You now have a whole new set of options to tweak on the edit form page - allowing an additional depth of customization."
+msgstr "Easy Forms for MailChimp by YIKES -lisäosan versioon 6.0.3.8 olemme lisänneet uuden tason mukauttaa ohjelmaa. Käytettävissä on uusi joukko valintoja joilla lisäosaa voi mukauttaa lomake sivulla - se sallii mukauttamisen ulottua syvemmälle."
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:14
+msgid "Additional Form Classes"
+msgstr "Lisää lomakkeen luokkia"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:15
+msgid "Form Layout (inline vs. standard)"
+msgstr "Lomakkeen asettelu (rivin sisällä vs. vakio)"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:17
+msgid "Submit Button Image"
+msgstr "Lähetä painikkeen kuva"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:19
+msgid "Schedule Form by Date/Time"
+msgstr "Lomakkeen ajastus päivä/aika"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:20
+msgid "Require Users Be Logged In"
+msgstr "Edellytä käyttäjiltä sisäänkirjautumista"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:29
+msgid "Translated & Localized"
+msgstr "Käännetty & paikallistettu"
+
+#: admin/partials/edit-form.php:409
+msgid "Enter the URL of an image you would like to use as the submit button for this form."
+msgstr "Kirjoita kuvan verkko-osoite jota haluat käyttää tämän lomakkeen lähetä painikkeena."
+
+#: admin/partials/edit-form.php:416
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:18
+msgid "Submit Button Classes"
+msgstr "Lähetä painikkeen luokat"
+
+#: admin/partials/edit-form.php:417
+msgid "Add additional classes to this submit button."
+msgstr "Lisää CSS-luokkia tähän lähetä painikkeeseen."
+
+#: admin/partials/edit-form.php:418
+msgid "Add custom classes to the submit button."
+msgstr "Lisää mukautettuja CSS-luokkia tähän lähetä painikkeeseen."
+
+#: admin/partials/edit-form.php:426 admin/partials/edit-form.php:543
+msgid "Form Restrictions"
+msgstr "Rajoitukset lomakkeelle"
+
+#: admin/partials/edit-form.php:430
+msgid "Schedule Form"
+msgstr "Ajastettu lomake"
+
+#: admin/partials/edit-form.php:432
+msgid "Set a time period that this form should be active on your site. (mm/dd/yyyy)"
+msgstr "Aseta ajanjakso jolloin tämä lomake on sivustolla käytössä. (kk/pp/vvvv)"
+
+#: admin/partials/edit-form.php:433
+msgid "Once the end date & time have passed, users will no longer be able to signup for your mailing list."
+msgstr "Kun loppumisaika on ohitettu ja aika on kulunut, käyttäjät eivät voi enää liittyä postituslistalle."
+
+#: admin/partials/edit-form.php:437
+msgid "Start Date"
+msgstr "Alkamisajankohta"
+
+#: admin/partials/edit-form.php:443
+msgid "Start Time"
+msgstr "Alkaa kello"
+
+#: admin/partials/edit-form.php:446
+msgid "Set the dates that this form should display on your site."
+msgstr "Aseta päiväys ja aika jolloin tätä lomaketta aletaan näyttää sivustolla."
+
+#: admin/partials/edit-form.php:453
+msgid "End Date"
+msgstr "Loppumisajankohta"
+
+#: admin/partials/edit-form.php:392
+msgid "Select the submit button type for this form."
+msgstr "Valitse tässä lomakkeessa käytettävän lähetä painikkeen laji."
+
+#: admin/partials/edit-form.php:400
+msgid "Set the submit button text. Leaving this blank will default to %s."
+msgstr "Aseta lähetä painikkeen teksti. Kun tyhjä, oletus on %s."
+
+#: admin/partials/edit-form.php:407
+msgid "Submit Button URL"
+msgstr "Lähetä painikkeen verkko-osoite/URL"
+
+#: admin/partials/edit-form.php:408
+msgid "http://"
+msgstr "http://"
+
+#: admin/partials/edit-form.php:390
+msgid "Image"
+msgstr "Kuva"
+
+#: admin/partials/edit-form.php:374
+msgid "Programatically setup this form so that all fields are on the same line."
+msgstr "Määritä lomake ohjelmallisesti siten, että kaikki kentät ovat samalla rivillä."
+
+#: admin/partials/edit-form.php:381 admin/partials/edit-form.php:542
+msgid "Submit Button"
+msgstr "Lähetä painike"
+
+#: admin/partials/edit-form.php:385
+msgid "Submit Button Type"
+msgstr "Lähetä painikkeen laji"
+
+#: admin/partials/edit-form.php:387
+msgid "Text"
+msgstr "Teksikenttä"
+
+#: admin/partials/edit-form.php:372
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:682
+msgid "Show a different month"
+msgstr "Näytä muu kuukausi"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:692
+msgid "Error: The start date and time cannot occur after the end date and time. Chosen date reverted to previous selection."
+msgstr "Virhe: Aloituksen päiväys ja aika ei voi olla myöhäisempi kuin lopetus päiväys ja aika. Valittu päiväys palautetaan edelliseen valintaan."
+
+#: admin/partials/edit-form.php:55
+msgid "Signup is not yet open, and will be available on %s. Please come back then to signup."
+msgstr "Liittymislomake ei ole vielä käytössä mutta %s alkaen se on. Tule silloin takaisin, ole hyvä."
+
+#: admin/partials/edit-form.php:55 admin/partials/edit-form.php:56
+#: admin/partials/edit-form.php:439 admin/partials/edit-form.php:455
+msgid "at"
+msgstr "klo."
+
+#: admin/partials/edit-form.php:56
+msgid "This signup for this form ended on %s."
+msgstr "Liittymislomake ei ole enää avoinna. Se umpeutui %s."
+
+#: admin/partials/edit-form.php:58
+msgid "You need to be logged in to sign up for this mailing list."
+msgstr "Kirjaudu sivustolle jotta voit liittyä tälle postituslistalle."
+
+#: admin/partials/edit-form.php:342
+msgid "Additional Form Settings"
+msgstr "Lomakkeen lisäasetukset"
+
+#: admin/partials/edit-form.php:346
+msgid "Adjust some additional form settings below."
+msgstr "Tässä voi muuttaa joitakin lomakkeen lisäasetuksia."
+
+#: admin/partials/edit-form.php:349
+msgid "Overall Form Classes"
+msgstr "Lomakkeiden yleiset luokat"
+
+#: admin/partials/edit-form.php:353
+msgid "Form Classes"
+msgstr "Lomakkeen luokat"
+
+#: admin/partials/edit-form.php:354
+msgid "Add additional classes to this opt-in form."
+msgstr "Lisää CSS-luokkia tähän liittymislomakkeeseen."
+
+#: admin/partials/edit-form.php:355
+msgid "Add additional class names to the %s element."
+msgstr "Lisää CSS-luokkien nimiä %s-elementtiin."
+
+#: admin/partials/edit-form.php:362 admin/partials/edit-form.php:541
+msgid "Form Layout"
+msgstr "Lomakkeen asettelu"
+
+#: admin/partials/edit-form.php:367
+msgid "Inline Form"
+msgstr "Lomake rivin sisällä"
+
+#: admin/partials/edit-form.php:369
+msgid "Enable"
+msgstr "Ota käyttöön"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:679
+#: public/partials/shortcodes/process_form_shortcode.php:843
+msgid "Today"
+msgstr "Tänään"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:678
+msgid "Done"
+msgstr "Tehty"
+
+#: public/helpers.php:25
+msgid "Whoops, you forgot to specify a form ID."
+msgstr "Oho, unohdit määrittää lomakkeen tunnuksen / ID."
+
+#: admin/partials/menu/manage-forms.php:95
+msgid "Form submission stats/rates successfully reset."
+msgstr "Tilastot lomakkeen lähetyksistä on tyhjennetty."
+
+#: admin/partials/menu/manage-forms.php:103
+msgid "There was an error trying to reset the form submission stats/rates. Please try again. If this error persists, please contact the YIKES Inc. support team."
+msgstr "Tapahtui virhe kun tilastoja lomakkeiden lähetyksestä yritettiin tyhjentää. Yritä uudelleen, ole hyvä. Jos virhe jatkuvasti toistuu ota yhteyttä YIKES Inc. yrityksen tukitiimiin."
+
+#: admin/partials/menu/manage-forms.php:170
+msgid "Reset Stats"
+msgstr "Tyhjennä tilastot"
+
+#: admin/partials/menu/support.php:20
+msgid "If you have any problems with the form, send an email to <a href='mailto:support@yikesinc.com'>support@yikesinc.com</a> and a ticket will be created."
+msgstr "Jos lomakkeessa on ongelma, lähetä sähköpostia <a href='mailto:support@yikesinc.com'>support@yikesinc.com</a>. Tukipyyntö luodaan."
+
+#: public/partials/shortcodes/process_form_shortcode_depracated.php:21
+msgid "This MailChimp shortcode is now deprecated. Please insert the new shortcode to display this form."
+msgstr "Tämä MailChimp lyhytkoodi on vanhentunut. Kun kirjoitat uuden lyhytkoodin, lomake näytetään."
+
+#: public/partials/shortcodes/process_form_shortcode.php:267
+msgid "Whoops, it looks like you forgot to assign fields to this form."
+msgstr "Oho, näyttää siltä, että unohdit määrittää tälle lomakkeelle kentät."
+
+#: public/partials/shortcodes/process_form_shortcode.php:345
+#: public/partials/shortcodes/process_form_shortcode.php:1028
+msgid "This field is required."
+msgstr "Tämä tieto vaaditaan"
+
+#: public/partials/shortcodes/process_form_shortcode.php:549
+msgid "Please enter a valid URL to the website."
+msgstr "Kirjoita sivuston kelvollinen verkko-osoite/URL."
+
+#: public/partials/shortcodes/process_form_shortcode.php:549
+msgid "Please enter a valid URL to the image."
+msgstr "Kirjoita kuvalle kelvollinen verkko-osoite."
+
+#: public/partials/shortcodes/process_form_shortcode.php:589
+msgid "US Phone Number (###) ### - ####"
+msgstr "USA:n puhelinnumero (###) ### - ####"
+
+#: public/partials/shortcodes/process_form_shortcode.php:617
+#: public/partials/shortcodes/process_form_shortcode.php:715
+msgid "5 digit zip code, numbers only"
+msgstr "Postinumero, 5 numeroa"
+
+#: public/partials/shortcodes/process_form_shortcode.php:63
+msgid "Whoops! It looks like you enabled reCAPTCHA but forgot to enter the reCAPTCHA secret key!"
+msgstr "Oho! Näyttää siltä, että otit käyttöön Roskapostin eston, mutta unohdit kirjoittaa reCAPTCHA-salaisen avaimen!"
+
+#: public/partials/shortcodes/process_form_shortcode.php:264
+msgid "An email field is required for all MailChimp forms. Please add an email field to this form."
+msgstr "Sähköpostikenttä tarvitaan kaikkiin MailChimp-lomakkeisiin. Lisää sähköpostin kenttä tähän lomakkeeseen, ole hyvä."
+
+#: public/partials/shortcodes/process_form_shortcode.php:60
+msgid "Whoops! It looks like you enabled reCAPTCHA but forgot to enter the reCAPTCHA site key!"
+msgstr "Oho! Näyttää siltä, että otit käyttöön Roskapostin eston, mutta unohdit kirjoittaa sivuston reCAPTCHA-avaimen!"
+
+#: public/partials/shortcodes/process_form_shortcode.php:40
+msgid "Whoops, it looks like you forgot to specify a form to display."
+msgstr "Oho, näyttää siltä että unohdit määrittää mikä lomake näytetään."
+
+#: public/partials/shortcodes/process_form_shortcode.php:49
+#: public/partials/shortcodes/yikes-mailchimp-subscriber-count.php:45
+msgid "Oh no...This form doesn't exist. Head back to the manage forms page and select a different form."
+msgstr "Voi ei... Lomaketta ei ole. Siirry takaisin lomakkeiden hallintasivulle ja valitse eri lomake."
+
+#: public/partials/shortcodes/process_form_shortcode.php:35
+msgid "Whoops, you're not connected to MailChimp. You need to enter a valid MailChimp API key."
+msgstr "Oho, et ole yhdistettynä MailChimp-palveluun. Kirjoita kelvollinen MailChimp API-avain."
+
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:72
+msgid "Please refresh the page and try again."
+msgstr "Päivitä sivu ja yritä uudelleen."
+
+#: public/partials/shortcodes/process/process_form_submission.php:272
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:287
+msgid "Thank you for subscribing! Check your email for the confirmation message."
+msgstr "Kiitos tilaamisesta! Katso sähköpostista vahvistusviesti."
+
+#: public/partials/shortcodes/process/process_form_submission.php:272
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:287
+msgid "Thank you for subscribing!"
+msgstr "Kiitos tilaamisesta!"
+
+#: public/partials/shortcodes/process/process_form_submission.php:73
+msgid "It looks like you forgot to fill in a required field."
+msgid_plural "It looks like you forgot to fill in %s required fields."
+msgstr[0] "Näyttää siltä, että unohdit täyttää vaadittavan kentän."
+msgstr[1] "Näyttää siltä, että unohdit täyttää %s vaadittavaa kenttää."
+
+#: public/partials/shortcodes/process/process_form_submission.php:30
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:51
+msgid "Error: It looks like the honeypot was filled out and the form was not properly be submitted."
+msgstr "Virhe: Näyttää siltä, että hunajapurkki täytettiin mutta lomaketta ei lähetetty kunnolla."
+
+#: public/classes/checkbox-integrations.php:256
+msgid "Note"
+msgstr "Kommentti"
+
+#: public/partials/shortcodes/process/process_form_submission.php:21
+msgid "Error : Sorry, the nonce security check didn't pass. Please reload the page and try again. You may want to try clearing your browser cache as a last attempt."
+msgstr "Virhe : Pahoittelemme, kertakäyttöavaimen vahvistus epäonnistui. Päivitä sivu ja yritä uudelleen. Viimeisenä yrityksenä voit tyhjentää selaimen välimuistin."
+
+#: public/classes/checkbox-integrations/class.registration_form-checkbox.php:58
+msgid "You have not been subscribed to our mailing list. %s is already subscribed to this list."
+msgstr "Et ole liittynyt postituslistallemme. %s on jo liittynyt listalle."
+
+#: public/classes/checkbox-integrations.php:123
+msgid "Sign me up for your mailing list."
+msgstr "Liityn postituslistallenne."
+
+#: public/classes/checkbox-integrations/class.bbpress_forms-checkbox.php:9
+#: public/classes/checkbox-integrations/class.buddypress_form-checkbox.php:9
+#: public/classes/checkbox-integrations/class.comment_form-checkbox.php:9
+#: public/classes/checkbox-integrations/class.contact_form_7-checkbox.php:14
+#: public/classes/checkbox-integrations/class.easy_digital_downloads_checkout_form-checkbox.php:10
+#: public/classes/checkbox-integrations/class.registration_form-checkbox.php:11
+#: public/classes/checkbox-integrations/class.woocommerce_checkout_form-checkbox.php:11
+#: public/classes/checkbox-integrations.php:8
+msgid "Whoops, you shouldn't be accessing this file directly. Abort!"
+msgstr "Oho, tätä tiedostoa ei pitäisi kutsua suoraan. Poistu!"
+
+#: includes/third-party-integrations/visual-composer/visual-composer.php:76
+msgid "Enter a title to display"
+msgstr "Kirjoita näytettävä otsikko"
+
+#: includes/third-party-integrations/visual-composer/visual-composer.php:56
+msgid "Should this form display the title."
+msgstr "Näytetäänkö tällä lomakkeella otsikko."
+
+#: includes/third-party-integrations/visual-composer/visual-composer.php:67
+msgid "Should this form display the description."
+msgstr "Näytetäänkö tällä lomakkeella kuvaus."
+
+#: includes/third-party-integrations/visual-composer/visual-composer.php:27
+msgid "Display a MailChimp Opt-In form"
+msgstr "Näytä MailChimp postituslistalle liittymislomake"
+
+#: includes/third-party-integrations/visual-composer/visual-composer.php:45
+msgid "Select which form to display."
+msgstr "Valitse mikä lomake näytetään."
+
+#: includes/third-party-integrations/visual-composer/visual-composer.php:23
+msgid "Easy Forms for MailChimp"
+msgstr "Easy Forms for MailChimp (MailChimp helpot lomakkeet)"
+
+#: includes/import-export/yikes-easy-mailchimp-import.class.php:88
+msgid "There was an error during import. If you continue to run into issues, please reach out to the Yikes Inc. support team."
+msgstr "Tuonnissa tapahtui virhe. Jos virhe jatkuvasti toistuu ota yhteyttä YIKES Inc. yrityksen tukitiimiin."
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:149
+msgid "Attempt to Create Error Log"
+msgstr "Yritetään luoda virheloki"
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:162
+msgid "It looks like the function file_get_contents() is disabled on your server. We cannot retrieve the contents of the error log."
+msgstr "Näyttää siltä, että file_get_contents()-toiminto (hae tiedoston sisältö) on otettu pois käytöstä palvelimella. Virhelokin sisältöä ei voi noutaa."
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:136
+msgid "It looks like your error log file is missing. You can attempt to create one by clicking the button below."
+msgstr "Näyttää siltä, että virheloki-tiedosto puuttuu. Voit yrittää luoda sen painamalla alla olevaa painiketta."
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:134
+msgid "Error Log Missing"
+msgstr "Virheloki puuttuu"
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:123
+msgid "To start logging errors toggle on the 'Enable Debugging' option above."
+msgstr "Vaihda yllä Ota testaustila käyttöön -asetus ja aloita virheiden kerääminen."
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:120
+msgid "No errors logged."
+msgstr "Virheitä ei tallennettu."
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:110
+msgid "File get contents not available"
+msgstr "Hae tiedoston sisältö ei ole käytössä"
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:69
+msgid "Front End"
+msgstr "Julkinen puoli"
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:82
+msgid "Page:"
+msgstr "Sivu:"
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:82
+msgid "Type:"
+msgstr "Laji:"
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:82
+msgid "Time:"
+msgstr "Aika:"
+
+#: admin/partials/welcome-page/welcome.php:57
+msgid "Thank you for updating to the latest version! Easy Forms for MailChimp by YIKES v%s is ready to help take your mailing lists to the next level!"
+msgstr "Kiitos kun päivitit uusimpaan versioon! Easy Forms for MailChimp by YIKES v%s -lisäosa on valmis johdattamaan postituslistasi korkeammalle tasolle!"
+
+#: includes/error_log/class-yikes-inc-easy-mailchimp-error-logging.php:67
+msgid "Admin"
+msgstr "Pääkäyttäjä"
+
+#: admin/partials/welcome-page/welcome.php:26
+msgid "Credits"
+msgstr "Tunnustukset"
+
+#: admin/partials/welcome-page/welcome.php:47
+msgid "MailChimp Done Right"
+msgstr "MailChimp oikein tehtynä"
+
+#: admin/partials/welcome-page/welcome.php:17
+msgid "What's New"
+msgstr "Mitä uutta"
+
+#: admin/partials/welcome-page/welcome.php:14
+msgid "Getting Started"
+msgstr "Aluksi"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:64
+msgid "Settings Page"
+msgstr "Asetukset sivu"
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:66
+msgid "We've re-laid out the settings page to allow for a more intuitive workflow. All of your settings are neatly tucked away in their respective setting tab."
+msgstr "Olemme asetelleet asetusten sivun siten, että se mahdollistaa intuitiivisemmän etenemisen. Kaikki asetukset on nätisti koottu ryhmiin eri välilehdille."
+
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:62
+msgid "Intuitive Settings Page"
+msgstr "Helposti lähestyttävä asetusten sivu"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:63
+msgid "For plugin documentation, visit our <a href=\"%s\" title=\"Knowledge Base\" target=\"_blank\">knowledge base</a>."
+msgstr "Lisäosan ohjeet, tutustu <a href=\"%s\" title=\"Lisäosan tietämyskanta\" target=\"_blank\">tietämyskantaan</a>."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:60
+msgid "If you want immediate support, please consider purchasing an add-on or developer License. Not only will you get 1 full year of automatic updates and priority support, you will enjoy the tons of features packed into our add-ons that are not available in the free version."
+msgstr "Jos haluat välittömästi tukea, harkitse laajennuksen tai kehittäjän lisenssin ostamista. Silloin saat 1 vuoden automaattiset päivitykset, etuoikeutetun tuen ja lisäksi nautit lukuisista maksullisen laajennuksen ominaisuuksista joita ei ole maksuttomassa versiossa."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:56
+msgid "GitHub Issue Tracker"
+msgstr "Github vikojen seuranta"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:59
+msgid "Priority Support"
+msgstr "Etuoikeutettu tuki"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:55
+msgid "WordPress Plugin Directory"
+msgstr "WordPress.org lisäosien hakemisto"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:53
+msgid "If you need help using the free version of the plugin, you can post support inquiries to one of two locations."
+msgstr "Jos tarvitset apua maksuttoman lisäosan käyttöön, voit lähettää tukitiedustelun yhteen näistä paikoista."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:52
+msgid "Free Support"
+msgstr "Maksuton tuki"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:50
+msgid "Need Support?"
+msgstr "Tarvitsetko tukea?"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:46
+msgid "We've created a MailChimp widget to easily add forms to any sidebar or widgetized area on your site. The widget allows you to select from any created forms."
+msgstr "Olemme luoneet MailChimp vimpaimen jolla voi helposti lisätä lomakkeita mihin tahansa sivupalkkiin tai vimpaimen hyväksymään kohtaan sivustolla. Vimpaimen avulla voit valita minkä tahansa lomakkeen."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:45
+msgid "Add Form to Widget"
+msgstr "Lisää lomake vimpaimeen"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:40
+msgid "Add Form to Page/Post"
+msgstr "Lisää lomake sivulle/artikkeliin"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:41
+msgid "When you're ready to add your MailChimp opt-in form to a page or post, you can click on the small MailChimp button in the content editor toolbar."
+msgstr "Kun olet valmis lisäämään MailChimp-liittymislomakkeen sivulle tai artikkeliin, vot napsauttaa pientä MailChimp painiketta editorin työkalupalkissa."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:38
+msgid "Add field to form screenshot"
+msgstr "Näyttökaappaus: Kentän lisääminen lomakkeeseen"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:34
+msgid "Quickly and easily switch which list the form is associated with, toggle single or double optin, whether the welcome email should be sent, toggle AJAX form submissions and more. Get customizing!"
+msgstr "Nopeasti ja helposti vaihdat mihin listaan lomake on liitetty, vaihdat yksinkertaisen tai varmennetun liittymisen välillä, lähetetäänkö Tervetuloa viesti vai ei, otat käyttöön AJAX-menetelmän lomakkeelle ja muuta. Aloita muokkaaminen."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:30
+msgid "Once created, you can customize the form. This includes editing the success and error messages displayed to the user, choosing which fields or interest groups are displayed, adding CSS classes to fields, assigning default values amp; placeholders and tons more!"
+msgstr "Kun lomake on luotu, voit muokata sitä. Mukaan lukien muokata käyttäjälle näytettävien onnistuneen liittymisen ja tapahtuneiden virheiden viestejä, valita mitä kenttiä tai (aihe)ryhmiä näytetään, lisätä CSS-tyyliluokkia kenttiin, määrittää oletusarvoja & paikanvaraus tekstejä ja paljon muuta!"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:29
+msgid "Customize the Form"
+msgstr "Muokkaa lomaketta"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:21
+msgid "Once you create a form, you can choose which fields you want to add to it and customize the success and error messages returned by MailChimp."
+msgstr "Kun olet luonut lomakkeen, voit valita mitä kenttiä haluat siihen ja voit muokata MailChimp.com:in palauttamia onnistuneen liittymisen ja tapahtuneiden virheiden viestejä."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:16
+msgid "Before you can start collecting users email addresses and building your mailing list, you'll need to create your first form. You can create as many forms as you'd like and assign each form to the same or different mailing lists."
+msgstr "Ennen kuin voit aloittaa sähköpostiosoitteiden keräämisen postituslistaa varten, on ensin luotava ensimmäinen lomake. Voit luoda kuinka monta lomaketta tahansa ja liittää kunkin lomakkeen yhteen tai useampaan postituslistaan."
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:20
+msgid "Additional Options"
+msgstr "Lisävalintoja"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:9
+msgid "Creating Your First Opt-In Form"
+msgstr "Ensimmäisen liittymislomakkeen luonti"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:3
+msgid "Before you can create any opt-in forms, you'll first need to enter your MailChimp API key into the <a href='%s' title='Yikes Easy MailChimp Settings'>settings page</a>"
+msgstr "Kirjoita ensin MailChimp API-avain <a href='%s' title='Yikes Easy MailChimp -asetukset'>asetukset sivulla</a>. Sen jälkeen voit luoda liittymislomakkeita."
+
+#: admin/partials/welcome-page/welcome-sections/credits-section.php:76
+msgid "Translators"
+msgstr "Kääntäjät"
+
+#: admin/partials/welcome-page/welcome-sections/credits-section.php:43
+msgid "YIKES Easy Forms for MailChimp is a free plugin licensed under GPL v2, and was meticulously constructed with a whole lot of love by the folks at <a href=\"%s\" target=\"_blank\" title=\"YIKES Inc.\">YIKES Inc.</a> in Philadelphia, PA."
+msgstr "YIKES MailChimp helpot lomakkeet -lisäosa (YIKES Easy Forms for MailChimp) on maksuton ja se on lisensoitu GPL v2-lisenssillä. Se on suurella määrällä rakkautta pikkutarkasti rakennettu näiden henkilöiden toimesta: <a href=\"%s\" target=\"_blank\" title=\"YIKES Inc.\">YIKES Inc.</a>, Philadelphia, PA, USA."
+
+#: admin/partials/welcome-page/welcome-sections/credits-section.php:47
+msgid "Developers"
+msgstr "Kehittäjät"
+
+#: admin/partials/welcome-page/welcome-sections/credits-section.php:68
+msgid "There was an error retrieving the contributors list. Please try again later."
+msgstr "Tapahtui virhe kun noudettiin tekijöiden listaa. Yritä uudelleen, ole hyvä."
+
+#: admin/partials/view-user.php:340
+msgid "Additional Subscriptions"
+msgstr "Muut tilaukset"
+
+#: admin/partials/view-user.php:380
+msgid "View Google Map"
+msgstr "Näytä Google kartta"
+
+#: admin/partials/view-user.php:284
+msgid "Deleting this subscriber will completely remove %s from the \"%s\" MailChimp list."
+msgstr "Kun tämä tilaaja poistetaan, niin se poistaa kokonaan %s tältä \"%s\" MailChimp-listalta."
+
+#: admin/partials/view-user.php:291 admin/partials/view-user.php:350
+msgid "Delete Subscriber"
+msgstr "Poista tilaaja"
+
+#: admin/partials/view-user.php:239
+msgid "Signup IP"
+msgstr "Liittymisen IP-numero"
+
+#: admin/partials/view-user.php:259
+msgid "Additional Subscriptions:"
+msgstr "Muut tilaukset:"
+
+#: admin/partials/view-user.php:269
+msgid "No Other Subscriptions Found."
+msgstr "Muita tilauksia ei löytynyt."
+
+#: admin/partials/view-user.php:169 admin/partials/view-user.php:330
+msgid "Subscriber Details"
+msgstr "Tilaajan tiedot"
+
+#: admin/partials/view-user.php:172
+msgid "View %s subscriber details below."
+msgstr "Näytä alla %s tilaajan tiedot."
+
+#: admin/partials/view-user.php:193
+msgid "Member Rating: %s star"
+msgid_plural "Member Rating: %s stars"
+msgstr[0] "Käyttäjän arvostelu: %s tähti"
+msgstr[1] "Käyttäjän arvostelu: %s tähteä"
+
+#: admin/partials/view-user.php:195
+msgid "Subscribed:"
+msgstr "Tilannut:"
+
+#: admin/partials/view-user.php:200 admin/partials/view-user.php:204
+msgid "Location:"
+msgstr "Sijainti:"
+
+#: admin/partials/view-user.php:218
+msgid "Fields:"
+msgstr "Kentät:"
+
+#: admin/partials/view-user.php:232
+msgid "No Subscriber Data Found"
+msgstr "Tilaajatietoja ei löytynyt"
+
+#: admin/partials/view-list.php:425
+msgid "Edit Segments"
+msgstr "Muokkaa lohkoja/segmenttejä"
+
+#: admin/partials/view-list.php:400
+msgid "Segments Overview"
+msgstr "Lohkojen/segmenttien tiedot"
+
+#: admin/partials/view-list.php:405
+msgid "%d Segment"
+msgid_plural "%d Segments"
+msgstr[0] "%d lohko"
+msgstr[1] "%d lohkoa"
+
+#: admin/partials/view-list.php:407
+msgid "hide conditions"
+msgstr "piilota ehdot"
+
+#: admin/partials/view-list.php:407
+msgid "view conditions"
+msgstr "näytä ehdot"
+
+#: admin/partials/view-list.php:336
+msgid "Default From Name"
+msgstr "Oletus nimi s-postin lähettäjäksi"
+
+#: admin/partials/view-list.php:351
+msgid "%d Field"
+msgid_plural "%d Fields"
+msgstr[0] "%d kenttä"
+msgstr[1] "%d kenttää"
+
+#: admin/partials/view-list.php:371
+msgid "Interest Groups Overview"
+msgstr "Ryhmien tiedot"
+
+#: admin/partials/view-list.php:328
+msgid "Short Signup URL"
+msgstr "Liittymislomakkeen lyhyt verkko-osoite/URL"
+
+#: admin/partials/view-list.php:332
+msgid "Default From Email"
+msgstr "Oletus sähköpostiosoite s-postin lähettäjäksi"
+
+#: admin/partials/view-list.php:316
+msgid "New Since Last Campaign"
+msgstr "Uusia edellisen postituskampanjan jälkeen."
+
+#: admin/partials/view-list.php:320
+msgid "Created"
+msgstr "Luotu"
+
+#: admin/partials/view-list.php:324
+msgid "List Fields"
+msgstr "Listan kentät"
+
+#: admin/partials/view-list.php:304
+msgid "List Rating"
+msgstr "Listan arvostelu"
+
+#: admin/partials/view-list.php:308
+msgid "Average Subscribers"
+msgstr "Keskimäärin tilaajia"
+
+#: admin/partials/view-list.php:266
+msgid "Go to the next page"
+msgstr "Siirry seuraavalle sivulle"
+
+#: admin/partials/view-list.php:267
+msgid "Go to the last page"
+msgstr "Siirry viimeiselle sivulle"
+
+#: admin/partials/view-list.php:282
+msgid "List Overview"
+msgstr "Listan tiedot"
+
+#: admin/partials/view-list.php:251
+msgid "No one is currently subscribed to this list."
+msgstr "Tällä listalla ei ole nyt tilaajia."
+
+#: admin/partials/view-list.php:263
+msgid "Go to the first page"
+msgstr "Siirry 1. sivulle"
+
+#: admin/partials/view-list.php:264
+msgid "Go to the previous page"
+msgstr "Siirry edelliselle sivulle"
+
+#: admin/partials/view-list.php:265
+msgid "Current page"
+msgstr "Tämä sivu"
+
+#: admin/partials/view-list.php:228
+msgid "not set"
+msgstr "ei asetettu"
+
+#: admin/partials/view-list.php:239
+msgid "View Info."
+msgstr "Näytä tiedot."
+
+#: admin/partials/view-list.php:241
+msgid "Unsubscribe"
+msgstr "Peru tilaus"
+
+#: admin/partials/view-list.php:201 admin/partials/view-list.php:210
+msgid "User Email"
+msgstr "Käyttäjän sähköposti"
+
+#: admin/partials/view-list.php:202 admin/partials/view-list.php:211
+msgid "Email Client"
+msgstr "Sähköpostiohjelma"
+
+#: admin/partials/view-list.php:177
+msgid "Add New Subscriber"
+msgstr "Lisää uusi tilaaja"
+
+#: admin/partials/view-list.php:179
+msgid "User Email Address"
+msgstr "Käyttäjän sähköpostiosoite"
+
+#: admin/partials/view-list.php:155
+msgid "New Subscriber"
+msgstr "Uusi tilaaja"
+
+#: admin/partials/view-list.php:163
+msgid "User successfully unsubscribed."
+msgstr "Käyttäjä poistettiin postituslistalta."
+
+#: admin/partials/view-list.php:170
+msgid "We've encountered an error trying to remove the subscriber. Please try again. If the error persists please get in contact with the YIKES Inc. support staff."
+msgstr "Käyttäjän poistamisessa listalta tapahtui virhe. Yritä uudelleen. Jos virhe jatkuvasti toistuu ota yhteyttä YIKES Inc. yrityksen tukityöntekijöihin. "
+
+#: admin/partials/view-list.php:154
+msgid "View all subscribers below. View additional subscriber info, or add additional fields to this list."
+msgstr "Näytä alla kaikki tilaajat. Näytä tilaajista lisätiedot tai lisää kenttiä tähän listaan."
+
+#: admin/partials/view-list.php:76
+msgid "No segments set up for this list."
+msgstr "Tälle listalle ei ole asetettu lohkoja/segmenttejä."
+
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:150
+msgid "Migration Complete. Please wait..."
+msgstr "Siirtotuonti valmis. Odota, ole hyvä ..."
+
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:230
+msgid "Old plugin options do not exist. Redirecting you..."
+msgstr "Vanhan lisäosan asetuksia ei ole. Edelleenohjataan ..."
+
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:145
+msgid "Settings Successfuly Imported"
+msgstr "Asetukset tuotiin."
+
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:34
+msgid "Migrating old plugin options"
+msgstr "Siirrä ja tuo vanhan lisäosan asetukset"
+
+#: admin/partials/menu/support.php:49
+msgid "Use your WordPress.org username to submit support requests on the WordPress Directory support forum."
+msgstr "Voit lähettää tukipyynnön (englanniksi) WordPress.org lisäosan sivulla kun sinulla on WordPress.org käyttäjätunnus."
+
+#: admin/partials/menu/support.php:50
+msgid "WordPress.org Issue Tracker Screenshot"
+msgstr "Näyttökaappaus: WordPress.org-tukisivu"
+
+#: admin/partials/menu/support.php:51
+msgid "Submit New WordPress.org Support Request"
+msgstr "Tee uusi WordPress.org tukipyyntö"
+
+#: admin/partials/menu/support.php:47
+msgid "WordPress.org Plugin Directory"
+msgstr "WordPress.org lisäosien hakemisto"
+
+#: admin/partials/menu/support.php:23
+msgid "knowledge base"
+msgstr "tietämyskantaan"
+
+#: admin/partials/menu/support.php:32
+msgid "Github Issue Tracker"
+msgstr "Github vikojen seuranta"
+
+#: admin/partials/menu/support.php:34
+msgid "The fastest way to receive free support is to submit a new issue to our GitHub issue tracker. "
+msgstr "Nopein tapa saada ilmaista tukea on lähettää uusi korjaus-/kehityspyyntö Github vikojen seurantaan (Github Issue Tracker)."
+
+#: admin/partials/menu/support.php:35
+msgid "Github Issue Tracker Screenshot"
+msgstr "Näyttökaappaus: Github-sivu"
+
+#: admin/partials/menu/support.php:23
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:62
+#: admin/partials/welcome-page/welcome.php:23
+msgid "Knowledge Base"
+msgstr "Tietämyskanta"
+
+#: admin/partials/menu/support.php:23
+msgid "Before submitting a support request, visit our %s."
+msgstr "Ennen kuin lähetät tukipyynnön, tutustu %s."
+
+#: admin/partials/menu/support.php:19
+msgid "It looks like you are one of our premium users! Fill out the form below to submit a priority support request."
+msgstr "Näyttää siltä, että olet eräs asiakkaamme. Täytä alla oleva lomake ja lähetä etuoikeutettu tukipyyntö."
+
+#: admin/partials/menu/support.php:14
+msgid "You've got questions? We have answers!"
+msgstr "Onko kysymyksiä? Meillä on vastauksia!"
+
+#: admin/partials/menu/support.php:16
+msgid "Users of the free version of YIKES Inc. Easy Forms for MailChimp are limited to two methods of support. We respond to support requests for the free version of the plugin once a week."
+msgstr "Maksuttoman YIKES Inc. Easy Forms for MailChimp -lisäosan käyttäjille on kaksi tuki mahdollisuutta. Vastaamme maksuttoman version tukipyyntöihin kerran viikossa."
+
+#: admin/partials/menu/options.php:94
+msgid "YIKES Easy Forms for MailChimp settings successfully imported."
+msgstr "YIKES Easy Forms for MailChimp -lisäosan asetukset tuotiin."
+
+#: admin/partials/menu/options.php:88
+msgid "Opt-in forms successfully imported. <a href=\"%s\" title=\"View Forms\">View Forms</a>"
+msgstr "Liittymislomakkeet tuotiin. <a href=\"%s\" title=\"Näytä lomakkeet\">Näytä lomakkeet</a>"
+
+#: admin/partials/menu/options.php:73
+msgid "Error log successfully created. You may now start logging errors."
+msgstr "Virhelokitiedosto on tehty. Voit nyt aloittaa virheilmoitusten keräämisen."
+
+#: admin/partials/menu/options.php:64
+msgid "Whoops! We've encountered an error while trying to clear the error log. Please refresh the page and try again. If the error persists please get in touch with the YIKES Inc. support team."
+msgstr "Oho! Tuli virhe kun virhelokia yritettiin tyhjentää. Päivitä sivu ja yritä uudelleen, ole hyvä. Jos virhe jatkuvasti toistuu ota yhteyttä YIKES Inc. yrityksen tukitiimiin."
+
+#: admin/partials/menu/options.php:56
+msgid "Error log successfully cleared."
+msgstr "Virheloki tyhjennetty."
+
+#: admin/partials/menu/options.php:47
+msgid "MailChimp API Cache successfully cleared."
+msgstr "MailChimp API-välimuisti tyhjennetty."
+
+#: admin/partials/menu/options.php:39
+msgid "Settings successfully updated."
+msgstr "Asetukset päivitettiin."
+
+#: admin/partials/menu/options.php:12
+msgid "Not Connected"
+msgstr "Ei yhdistetty"
+
+#: admin/partials/menu/options.php:33
+msgid "Easy Forms for MailChimp allows you to painlessly add MailChimp sign up forms to your WordPress site and track user activity with interactive reports."
+msgstr "MailChimp helpot lomakkeet -lisäosalla voit kivuttomasti lisätä MailChimp liittymislomakkeita WordPress sivustoon ja seurata käyttäjien tilannetta interaktiivisten raporttien avulla."
+
+#: admin/partials/menu/options.php:9
+msgid "Your site is currently connected to the MailChimp API"
+msgstr "Sivusto on yhdistetty MailChimp rajapintaan/API."
+
+#: admin/partials/menu/options.php:9
+msgid "Connected"
+msgstr "Yhdistetty"
+
+#: admin/partials/menu/options-sections/templates/integration-interest-groups.php:22
+msgid "note: the interest groups will not show up on the front end for your users to select from."
+msgstr "Huom.: ryhmät eivät näy julkisella puolella joten käyttäjät eivät voi tehdä valintoja niiden välillä."
+
+#: public/partials/shortcodes/yikes-mailchimp-subscriber-count.php:21
+msgid "You don't appear to be connected to MailChimp."
+msgstr "Et taida olla yhdistettynä MailChimp.com-palveluun."
+
+#: public/partials/shortcodes/yikes-mailchimp-subscriber-count.php:32
+msgid "You forgot to include the list or form ID."
+msgstr "Unohdit liittää mukaan listan tai lomakkeen tunnuksen/ID."
+
+#: public/partials/shortcodes/yikes-mailchimp-subscriber-count.php:89
+msgid "It looks like this list wasn't found. Double check the list with with ID '%s' exists."
+msgstr "Näyttää siltä, että tätä listaa ei löytynyt. Tarkasta vielä kerran, että lomake tunnuksella/ID %s on olemassa."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.yikesinc.com/services/yikes-inc-easy-mailchimp-extender/"
+msgstr "http://www.yikesinc.com/services/yikes-inc-easy-mailchimp-extender/"
+
+#. Description of the plugin/theme
+msgid "YIKES Easy Forms for MailChimp links your site to MailChimp and allows you to generate and display mailing list opt-in forms anywhere on your site with ease."
+msgstr "YIKES: MailChimp helpot lomakkeet (Easy Forms for MailChimp by YIKES) -lisäosa liittää sivustosi MailChimp-palveluun jolloin voit helposti luoda ja näyttää postituslistalle liittymislomakkeita missä tahansa."
+
+#. Author of the plugin/theme
+msgid "YIKES"
+msgstr "YIKES"
+
+#. Author URI of the plugin/theme
+msgid "http://www.yikesinc.com/"
+msgstr "http://www.yikesinc.com/"
+
+#: admin/partials/menu/options-sections/templates/integration-interest-groups.php:21
+msgid "It looks like we found some interest groups! Pre-select interest groups for this integration below."
+msgstr "Näyttää siltä, että löytyi ryhmiä! Voit alla valita mihin ryhmään tilaaja sijoitetaan."
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:44
+msgid "View reCAPTCHA Preview"
+msgstr "Näytä reCAPTCHA-esikatselu"
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:46
+msgid "reCAPTCHA Preview"
+msgstr "Roskapostin esto -esikatselu (reCAPTCHA)"
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:36
+msgid "reCAPTCHA Site Key"
+msgstr "Sivuston reCAPTCHA-avain"
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:40
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA salainen avain"
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:24
+msgid "Get your reCAPTCHA API Key"
+msgstr "Saat reCAPTCHA API-avaimen täältä"
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:24
+msgid "Get Your reCAPTCHA API Key"
+msgstr "Saat reCAPTCHA API-avaimen täältä"
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:32
+msgid "Enable reCAPTCHA Protection"
+msgstr "Ota käyttöön Roskapostin esto (reCAPTCHA- palvelu)"
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:20
+msgid "reCAPTCHA is a free CAPTCHA service, from Google, that helps protect your site against spam, malicious registrations and other forms of attacks where computers try to disguise themselves as a human. reCAPTCHA will help prevent spammers and bots from submitting data through your MailChimp forms."
+msgstr "reCAPTCHA on Googlen maksuton roskapostin esto -palvelu. Se auttaa suojautumaan sellaisten tietokoneiden hyökkäyksiltä jotka pyrkivät toimimaan kuten henkilöt. Uhkia ovat esim. roskaposti ja pahansuovat rekisteröitymiset. reCAPTCHA auttaa estämään roskapostin levittäjiä ja botteja lähettämästä tietoja MailChimp lomakkeiden kautta."
+
+#: admin/partials/menu/options-sections/integration-settings.php:181
+msgid "Precheck Checkbox"
+msgstr "Valintaruutu esivalittuna?"
+
+#: admin/partials/menu/options-sections/integration-settings.php:211
+msgid "Nothing is active."
+msgstr "Mikään ei ole käytössä."
+
+#: admin/partials/menu/options-sections/recaptcha-settings.php:15
+msgid "reCAPTCHA Settings"
+msgstr "Roskapostin esto -asetukset (reCaptcha)"
+
+#: admin/partials/menu/options-sections/integration-settings.php:177
+msgid "Checkbox Label"
+msgstr "Valintaruudun nimi"
+
+#: admin/partials/menu/options-sections/integration-settings.php:165
+msgid "Select a List"
+msgstr "Valitse lista"
+
+#: admin/partials/menu/options-sections/integration-settings.php:172
+msgid "You have not setup any lists. You should head over to MailChimp and setup your first list."
+msgstr "Listoja ai ole asetettu. Siirry MailChimp.com palveluun ja luo ensimmäinen lista."
+
+#: admin/partials/menu/options-sections/integration-settings.php:156
+msgid "Use %s in Contact Form 7 to display the checkbox."
+msgstr "Käytä Contact Form 7 -lisäosassa %s koodia valintaruudun näyttämiseen."
+
+#: admin/partials/menu/options-sections/integration-settings.php:127
+msgid "Select which plugins or features Easy Forms for MailChimp by Yikes Inc. should integrate with. Depending on which plugins or features you choose to integrate with, an opt-in checkbox will be generated. For example, the comment form checkbox will generate a checkbox below the standard WordPress comment form to add any new commenters to a pre-determined MailChimp mailing list."
+msgstr "Valitse mihin lisäosiin tai toimintoihin haluat Yikes Inc. MailChimpin liittyvän. Liittymisruutu luodaan sen mukaan, mihin lisäosaan tai palveluun haluat liitoksen tehtäväksi. Esimerkiksi kommentointilomakkeen liittymisruutu lisää valintaruudun WordPress kommentointilomakkeen alle. Ruudun valinneet lisätään ennalta valitulle postituslistalle."
+
+#: admin/partials/menu/options-sections/integration-settings.php:65
+msgid "BuddyPress Registration"
+msgstr "BuddyPress rekisteröityminen (-Registration)"
+
+#: admin/partials/menu/options-sections/integration-settings.php:61
+msgid "WooCommerce Checkout"
+msgstr "WooCommerce kassa (-Checkout)"
+
+#: admin/partials/menu/options-sections/integration-settings.php:57
+msgid "Easy Digital Downloads Checkout"
+msgstr "Easy Digital Downloads kassa (-Checkout)"
+
+#: admin/partials/menu/options-sections/integration-settings.php:52
+msgid "Once the Contact Form 7 integration is active you can use our custom shortcode [yikes_mailchimp_checkbox] in your contact forms to subscribe users to a pre-selected list."
+msgstr "Kun Contact Form 7 liitos on käytössä, voit lisätä valintaruudun kontaktilomakkeisiin tällä lyhytkoodilla: [yikes_mailchimp_checkbox] . Sen valinneesta tulee tilaaja ennalta asetetulle postituslistalle."
+
+#: admin/partials/menu/options-sections/integration-settings.php:52
+#: admin/partials/menu/options-sections/integration-settings.php:73
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/partials/menu/options-sections/integration-settings.php:51
+msgid "Enabling the bbPress opt-in enables users who register to use the forums on your site to be automatically added to the mailing list of your choice."
+msgstr "Kun valitset tämän, niin BuddyPress käyttäjät jotka rekisteröityvät sivuston foorumin käyttäjiksi voidaan automaattisesti lisätä haluamallesi postituslistalle."
+
+#: admin/partials/menu/options-sections/integration-settings.php:51
+#: admin/partials/menu/options-sections/integration-settings.php:69
+msgid "bbPress"
+msgstr "bbPress"
+
+#: admin/partials/menu/options-sections/integration-settings.php:50
+msgid "Enabling the BuddyPress opt-in allows users who register for your site to be automatically added to the mailing list of your choice."
+msgstr "Kun valitset tämän, niin BuddyPress rekisteröityvät voidaan automaattisesti lisätä haluamallesi postituslistalle."
+
+#: admin/partials/menu/options-sections/integration-settings.php:50
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: admin/partials/menu/options-sections/integration-settings.php:49
+msgid "Enabling the Easy Digital Downloads checkout opt-in allows users who make a purchase to opt-in to your mailing list during checkout."
+msgstr "Kun valitset tämän, niin Easy Digital Downloads kassalomakkeeseen liitetään liittymisen mahdollistava valintaruutu kun he ostavat tuotteita. Asiakkaat voivat samalla liittyä postituslistalle."
+
+#: admin/partials/menu/options-sections/integration-settings.php:49
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: admin/partials/menu/options-sections/integration-settings.php:48
+msgid "Enabling the WooCommerce checkout opt-in form allows you to capture email addresses from users who make purchases in your store. This option will add an opt-in checkbox to the checkout page."
+msgstr "Kun valitset tämän, niin WooCommercen kassalomakkeeseen liitetään liittymisen mahdollistava valintaruutu kun he ostavat tuotteita. Asiakkaan sähköpostiosoite tallennetaan kassalomakkeesta."
+
+#: admin/partials/menu/options-sections/integration-settings.php:48
+msgid "WooCommerce Store"
+msgstr "WooCommerce kauppa"
+
+#: admin/partials/menu/options-sections/integration-settings.php:47
+msgid "Enabling the WordPress core registration form opt-in checkbox will display a checkbox to new users when registering for your site."
+msgstr "Kun valitset tämän, niin WordPressin rekisteröitymislomakkeeseen liitetään liittymisen mahdollistava valintaruutu. Ruutu näytetään uusille käyttäjille kun he rekisteröityvät sivustolle."
+
+#: admin/partials/menu/options-sections/integration-settings.php:46
+msgid "Enabling the WordPress core comment form opt-in checkbox will display a checkbox to your current users when leaving a comment (if they are not currently subscribed)."
+msgstr "Kun valitset tämän, niin WordPressin kommentointilomakkeeseen liitetään liittymisen mahdollistava valintaruutu. Ruutu näytetään käyttäjille kun he jättävät kommentin ja eivät ole vielä liittyneet."
+
+#: admin/partials/menu/options-sections/integration-settings.php:46
+#: admin/partials/menu/options-sections/integration-settings.php:47
+msgid "WordPress"
+msgstr "WordPress"
+
+#: admin/partials/menu/options-sections/integration-settings.php:42
+msgid "WordPress Registration Form"
+msgstr "WordPress rekisteröitymislomake (- Registration Form)"
+
+#: admin/partials/menu/options-sections/integration-settings.php:41
+msgid "WordPress Comment Form"
+msgstr "WordPress kommentointilomake (- Comment Form)"
+
+#: admin/partials/menu/options-sections/import-export-forms.php:48
+msgid "Export Plugin Settings"
+msgstr "Vie lisäosan asetukset"
+
+#: admin/partials/menu/options-sections/import-export-forms.php:57
+#: admin/partials/menu/options-sections/import-export-forms.php:66
+msgid "Import"
+msgstr "Tuonti"
+
+#: admin/partials/menu/options-sections/import-export-forms.php:59
+msgid "Select the Easy Forms for MailChimp export file you would like to import. You can use this field to import your opt-in forms or settings. "
+msgstr "Valitse MailChimp helpot lomakkeet -lisäosan viemä tiedosto, jonka haluat tuoda. Voit tuoda tällä kentällä sekä liittymislomakkeita että asetuksia."
+
+#: admin/partials/menu/options-sections/import-export-forms.php:33
+msgid "Export Opt-in Forms"
+msgstr "Vie liittymislomakkeet"
+
+#: admin/partials/menu/options-sections/import-export-forms.php:42
+msgid "Export Settings"
+msgstr "Asetusten vienti"
+
+#: admin/partials/menu/options-sections/import-export-forms.php:44
+msgid "Export YIKES Easy Forms for MailChimp plugin settings."
+msgstr "Vie MailChimp helpot lomakkeet -lisäosan asetukset."
+
+#: admin/partials/menu/options-sections/import-export-forms.php:30
+msgid "It looks like you haven't created any forms yet."
+msgstr "Näyttää siltä, että et ole vielä luonut lomakkeita."
+
+#: admin/partials/menu/options-sections/import-export-forms.php:24
+msgid "Select which forms to export. Leave all checkboxes unchecked to export all of your forms."
+msgstr "Valitse vietävät lomakkeet. Kun jokainen valintaruutu on tyhjä (ei valittuna) niin kaikki lomakkeet viedään."
+
+#: admin/partials/menu/options-sections/import-export-forms.php:22
+msgid "Select Forms"
+msgstr "Valitse lomakkeet"
+
+#: admin/partials/menu/options-sections/import-export-forms.php:17
+msgid "Select the forms you would like to export. When you click the download button below, Easy Forms for MailChimp will create a CSV file for you to save to your computer. Once you've saved the download file, you can use the Import tool to import the forms to this or any other site."
+msgstr "Valitse lomakkeet haluat viedä. Kun painat alla olevaa painiketta, MailChimp helpot lomakkeet -lisäosa luo pilkuilla erotetun (CSV) tiedoston jonka voit tallentaa tietokoneelle. Kun olet tallentanut ladatun tiedoston, voit käyttää Tuonti työkalua siirtämään lomakkeet toiselle sivustolle."
+
+#: admin/partials/menu/options-sections/import-export-forms.php:8
+msgid "Import/Export Forms & Settings"
+msgstr "Tuo/Vie lomakkeita & asetuksia"
+
+#: admin/partials/menu/options-sections/import-export-forms.php:15
+msgid "Export Forms"
+msgstr "Lomakkeiden vienti"
+
+#: admin/partials/menu/options-sections/general-settings.php:24
+msgid "Enter your API key in the field below to connect your site to your MailChimp account."
+msgstr "Kirjoita API-avain alla olevaan kenttään jotta lisäosa voi muodostaa yhteyden MailChimp-tiliisi."
+
+#: admin/partials/menu/options-sections/general-settings.php:37
+msgid "Get your API key here"
+msgstr "Saat API-avaimen täältä"
+
+#: admin/partials/menu/options-sections/debug-settings.php:38
+msgid "Debug Log"
+msgstr "Testaustilan loki"
+
+#: admin/partials/menu/options-sections/debug-settings.php:38
+msgid "Clear Log"
+msgstr "Tyhjennä loki"
+
+#: admin/partials/menu/options-sections/debug-settings.php:43
+msgid "Error Message"
+msgstr "Virheilmoitus"
+
+#: admin/partials/menu/options-sections/debug-settings.php:44
+msgid "Error Details"
+msgstr "Virheen tiedot"
+
+#: admin/partials/menu/options-sections/api-cache-settings.php:15
+#: admin/partials/menu/options-sections/api-cache-settings.php:17
+msgid "Clear MailChimp API Cache"
+msgstr "Tyhjennä MailChimp API-välimuisti"
+
+#: admin/partials/menu/options-sections/debug-settings.php:19
+msgid "If you encounter an issue with Easy Forms for MailChimp you can toggle on debugging to display advanced error messages and start logging errors."
+msgstr "Jos kohtaat vian MailChimp helpot lomakkeet -lisäosassa voit ottaa käyttään testaustilan. Testaustilassa virheet viedään lokiin ja näytetään laajennetut virheilmoitukset."
+
+#: admin/partials/menu/options-sections/api-cache-settings.php:15
+msgid "No MailChimp data found in temporary cache storage."
+msgstr "MailChimp tietoja ei löytynyt väliaikaisesta välimuistista."
+
+#: admin/partials/menu/options-sections/api-cache-settings.php:12
+msgid "Delete all MailChimp data stored in your sites cache. Most data is stored in the cache for 1 hour."
+msgstr "Poista kaikki MailChimp tiedot sivuston välimuistista. Suurin osa tiedoista säilyy välimuistissa 1 tunnin ajan. - <strong>Vinkki</strong>: MailChimp.com sivustolla tehdyt asetukset eivät heti päivity WP-lisäosalle. Tyhjennä MailChimp API-vlimuisti kun haluat tekemiesi muutosten päivittyvän heti lisäosaan."
+
+#: admin/partials/menu/manage-lists.php:37
+msgid "Manage Mailing Lists"
+msgstr "Postituslistojen hallinta"
+
+#: admin/partials/menu/manage-lists.php:110
+msgid "No MailChimp lists found. Head over to <a href=\"%s\" title=\"MailChimp.com\">MailChimp.com</a> to setup your first mailing list. Once thats done you can head back here to customize it!"
+msgstr "MailChimp-listoja ei löytynyt. Siirry <a href=\"%s\" title=\"MailChimp.com\">MailChimp.com-palveluun</a> ja luo ensimmäinen postituslista. Kun se on tehty, voit palata tänne ja mukauttaa sitä!"
+
+#: admin/partials/menu/manage-forms.php:229
+msgid "No MailChimp forms found. Use the form to the right to create a new one."
+msgstr "MailChimp-lomakkeita ei löytynyt. Luo uusi käyttämällä oikealla olevaa lomaketta."
+
+#: admin/partials/menu/manage-forms.php:185
+msgid "List Not Found"
+msgstr "Listaa ei löytynyt"
+
+#: admin/partials/menu/manage-forms.php:169
+msgid "Duplicate"
+msgstr "Monista"
+
+#: admin/partials/menu/manage-forms.php:180
+msgid "Are you sure you want to delete the %s form? This cannot be undone."
+msgstr "Oletko varma, että haluat poistaa %s lomakkeen? Tätä ei voi perua."
+
+#: admin/partials/menu/manage-forms.php:171
+msgid "Stats"
+msgstr "Tilastot"
+
+#: admin/partials/menu/manage-forms.php:132
+#: admin/partials/menu/manage-forms.php:147
+#: admin/partials/menu/manage-forms.php:196
+msgid "Submissions"
+msgstr "Lähetettyjä"
+
+#: admin/partials/menu/manage-forms.php:133
+#: admin/partials/menu/manage-forms.php:148
+#: admin/partials/menu/manage-forms.php:216
+msgid "Conversion Rate"
+msgstr "Menestys prosentti"
+
+#: admin/partials/menu/manage-forms.php:131
+#: admin/partials/menu/manage-forms.php:146
+#: admin/partials/menu/manage-forms.php:190
+msgid "Impressions"
+msgstr "Näyttöjä"
+
+#: admin/partials/menu/manage-forms.php:127
+#: admin/partials/menu/manage-forms.php:142
+msgid "ID"
+msgstr "Tunnus/ID"
+
+#: admin/partials/menu/manage-forms.php:130
+#: admin/partials/menu/manage-forms.php:145
+msgid "List"
+msgstr "Lista"
+
+#: admin/partials/menu/manage-forms.php:87
+msgid "There was an error trying to clone your form. Please try again. If this error persists, please contact the YIKES Inc. support team."
+msgstr "Lomakkeen monistaminen ei onnistunut. Yritä uudelleen, ole hyvä. Jos virhe jatkuvasti toistuu ota yhteyttä YIKES Inc. yrityksen tukitiimiin."
+
+#: admin/partials/menu/manage-forms.php:71
+msgid "Opt-in form successfully deleted."
+msgstr "Liittymislomake poistettiin."
+
+#: admin/partials/menu/manage-forms.php:79
+msgid "MailChimp Form successfully cloned."
+msgstr "MailChimp lomake monistettiin."
+
+#: admin/partials/menu/manage-forms.php:63
+#: admin/partials/menu/manage-lists.php:45
+msgid "You need to connect to MailChimp before you can start creating forms. Head over to the <a href=\"%s\" title=\"Settings Page\">Settings Page</a> and enter your API key."
+msgstr "Ennen kuin voit luoda lomakkeita, on ensin luotava yhteys MailChimp.com-palveluun. Siirry <a href=\"%s\" title=\"Asetukset sivu\">Asetukset sivulle</a> ja kirjoita API-avain."
+
+#: admin/partials/menu/manage-forms.php:58
+msgid "It looks like the forms table is missing. Please de-activate and re-activate the plugin to attempt to create the table. If the error persists, please get in touch with the YIKES Inc. support team."
+msgstr "Näyttää siltä, että lomakkeiden taulu puuttuu. Poista lisäosa ensin käytöstä ja sen jälkeen ota se uudelleen käyttöön; puuttuva taulu yritetään luoda. Jos virhe jatkuvasti toistuu ota yhteyttä YIKES Inc. yrityksen tukitiimiin."
+
+#: admin/partials/menu/manage-forms.php:52
+msgid "Create and manage your MailChimp opt-in forms on the following page. Select a form to make edits to it."
+msgstr "Luo ja hallinnoi MailChimp liittymislomakkeita seuraavalla sivulla. Kun valitset lomakkeen voit muokata sitä."
+
+#: admin/partials/menu/lists.php:100
+msgid "List Info."
+msgstr "Tiedot listasta."
+
+#: admin/partials/menu/manage-forms.php:49
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:15
+msgid "Manage Forms"
+msgstr "Lomakkeiden hallinta"
+
+#: admin/partials/menu/lists.php:98
+msgid "Edit Fields"
+msgstr "Muokkaa kenttiä"
+
+#: admin/partials/menu/lists.php:99 admin/partials/menu/manage-forms.php:180
+msgid "Delete"
+msgstr "Poista"
+
+#: admin/partials/menu/lists.php:97 admin/partials/menu/manage-lists.php:93
+msgid "View"
+msgstr "Näytä"
+
+#: admin/partials/menu/lists.php:51 admin/partials/menu/manage-lists.php:40
+msgid "Make edits to your MailChimp lists on the following page. Select a list to make edits to it."
+msgstr "Muokkaa MailChimp-listoja seuraavalla sivulla. Kun valitset listan voit muokata sitä."
+
+#: admin/partials/menu/lists.php:72 admin/partials/menu/lists.php:82
+#: admin/partials/menu/manage-lists.php:67
+#: admin/partials/menu/manage-lists.php:76 admin/partials/view-list.php:312
+msgid "Subscriber Count"
+msgstr "Tilaajia kpl."
+
+#: admin/partials/menu/lists.php:71 admin/partials/menu/manage-lists.php:66
+#: admin/partials/menu/manage-lists.php:75
+msgid "List Name"
+msgstr "Listan nimi"
+
+#: includes/add_ons/customizer.php:35 includes/add_ons/eu-compliance.php:35
+#: includes/add_ons/incentives.php:35 includes/add_ons/popups.php:35
+#: includes/add_ons/reverse-zip-lookup.php:35
+#: includes/upsells/customizer.php:28 includes/upsells/popups.php:28
+msgid "View Add-on"
+msgstr "Tutustu laajennukseen"
+
+#: admin/partials/menu/lists.php:48
+msgid "Manage Lists"
+msgstr "Listojen hallinta"
+
+#: admin/partials/menu/add-ons.php:12
+msgid "View All Add-Ons"
+msgstr "Näytä kaikki laajennukset"
+
+#: admin/partials/menu/add-ons.php:15
+msgid "Below you'll find a list of add-ons available for YIKES Easy Forms for MailChimp. Each add-on extends the base functionality of the free plugin."
+msgstr "Alla on lista YIKES MailChimp helpot lomakkeet -lisäosaan saatavilla olevista laajennuksista. Jokainen laajennus lisää maksuttoman lisäosan toimintoja."
+
+#: admin/partials/menu/account-details.php:272
+msgid "Affiliate Link"
+msgstr "Kumppanin linkki"
+
+#: admin/partials/menu/account-details.php:275
+msgid "View Link"
+msgstr "Näytä linkki"
+
+#: admin/partials/menu/account-details.php:246
+msgid "Member Since"
+msgstr "Jäsen alkaen"
+
+#: admin/partials/menu/account-details.php:254
+msgid "Plan Type"
+msgstr "Palvelun laji"
+
+#: admin/partials/menu/account-details.php:263
+msgid "Emails Left"
+msgstr "S-posteja jäljellä"
+
+#: admin/partials/menu/account-details.php:224
+msgid "MailChimp avatar"
+msgstr "MailChimp avatar"
+
+#: admin/partials/menu/account-details.php:230
+msgid "Company"
+msgstr "Yritys"
+
+#: admin/partials/menu/account-details.php:238
+msgid "Industry"
+msgstr "Toimiala"
+
+#: admin/partials/menu/account-details.php:89
+msgid "Below you'll find a brief overview of account activity as well as some account and profile info."
+msgstr "Alla on lyhyt katsaus tilin tapahtumiin ja lisäksi joitakin tietoja tilistä ja profiilista."
+
+#: admin/partials/menu/account-details.php:190
+msgid "View All Activity"
+msgstr "Näytä kaikki toiminta"
+
+#: admin/partials/menu/account-details.php:211
+#: admin/partials/menu/account-details.php:212
+msgid "MailChimp Site"
+msgstr "MailChimp sivusto"
+
+#: admin/partials/menu/account-details.php:222
+msgid "Account Active"
+msgstr "Tilo on käytössä"
+
+#: admin/partials/menu/account-details.php:222
+msgid "Account Inactive"
+msgstr "Tilo ei ole käytössä"
+
+#: admin/partials/menu/account-details.php:87
+msgid "Account Overview"
+msgstr "Tilin tilanne"
+
+#: admin/partials/menu/account-details.php:80 admin/partials/menu/lists.php:32
+msgid "It looks like you need to re-validate your MailChimp API key before you can continue."
+msgstr "Näyttää siltä, että MailChimp API-avain on vahvistettava uudelleen ennen kuin voit jatkaa."
+
+#: admin/partials/helpers/fields/yikes-mailchimp-file-field.php:29
+msgid "Remove File"
+msgstr "Poista tiedosto"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:139
+msgid "Submit Button Text:"
+msgstr "Lähetä painikkeen teksti:"
+
+#: admin/partials/helpers/fields/yikes-mailchimp-file-field.php:26
+msgid "Upload File"
+msgstr "Siirrä tiedosto palvelimelle"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:120
+msgid "Form:"
+msgstr "Lomake:"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:134
+msgid "Display Form Description:"
+msgstr "Näytä lomakkeen kuvaus:"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:78
+msgid "create a form"
+msgstr "luo lomake"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:107
+msgid "Please enter a valid MailChimp API key to connect your site to MailChimp."
+msgstr "Kirjoita kelvollinen MailChimp rajapinnan/API:n avain jotta sivusto yhdistetään MailChimp.com-palveluun."
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:115
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:30
+#: admin/partials/front-end-widgets/front-end-widget-form.php:88
+msgid "MailChimp Signup Form"
+msgstr "MailChimp liittymislomake"
+
+#: admin/partials/edit-form.php:49 admin/partials/edit-form.php:399
+#: admin/partials/edit-form.php:400
+#: admin/partials/front-end-widgets/front-end-widget-form.php:33
+#: admin/partials/front-end-widgets/front-end-widget-form.php:102
+#: includes/third-party-integrations/visual-composer/visual-composer.php:75
+#: public/partials/shortcodes/process_form_shortcode.php:138
+msgid "Submit"
+msgstr "Lähetä"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:17
+msgid "MailChimp opt-in widget for your sidebar."
+msgstr "Sivupalkin MailChimp liittymislomake"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:15
+msgid "Easy MailChimp Forms"
+msgstr "MailChimp helpot lomakkeet"
+
+#: admin/partials/edit-form.php:861
+msgid "Delete Form"
+msgstr "Poista lomake"
+
+#: admin/partials/edit-form.php:861
+msgid "Are you sure you want to delete this form? This cannot be undone."
+msgstr "Haluatko varmasti poistaa tämän lomakkeen. Tätä ei voi perua."
+
+#: admin/partials/edit-form.php:846
+msgid "<strong>Update</strong>: Update <em>only</em> the ones submitted. Leave existing interest groups as is."
+msgstr "<strong>Päivitä</strong>: Päivitä <em>vain</em> uudet annetut. Säilytä muut ryhmät ennallaan."
+
+#: admin/partials/edit-form.php:843
+msgid "<strong>Replace</strong>: Replace all interest groups with the new ones submitted."
+msgstr "<strong>Korvaa</strong>: Korvaa kaikki ryhmät annetuilla uusilla"
+
+#: admin/partials/edit-form.php:828
+msgid "Should the form be hidden after the user successfully signs up?"
+msgstr "Piilotetaanko lomake kun käyttäjä on onnistuneesti liittynyt?"
+
+#: admin/partials/edit-form.php:837
+msgid "Existing Interest Groups"
+msgstr "Asetetut ryhmät"
+
+#: admin/partials/edit-form.php:839
+msgid "Replace"
+msgstr "Korvaa"
+
+#: admin/partials/edit-form.php:840
+msgid "Update"
+msgstr "Päivitä"
+
+#: admin/partials/edit-form.php:823
+msgid "Hide Form After Sign Up"
+msgstr "Lomake piilotetaan liittymisen jälkeen"
+
+#: admin/partials/edit-form.php:814
+msgid "When the user signs up would you like to redirect them to another page?"
+msgstr "Kun käyttäjä on liittynyt, ohjataanko hänet toiselle sivulle?"
+
+#: admin/partials/edit-form.php:808
+msgid "Redirect On Submission"
+msgstr "Sivu lähettämisen jälkeen"
+
+#: admin/partials/edit-form.php:793
+msgid "Enable AJAX Submission"
+msgstr "Ota käyttöön AJAX-menetelmä"
+
+#: admin/partials/edit-form.php:798
+msgid "AJAX form submissions transmit data without requiring the page to refresh."
+msgstr "AJAX-menetelmällä tiedot lähetetään ilman sivun päivittämistä."
+
+#: admin/partials/edit-form.php:784
+msgid "Submission Settings"
+msgstr "Lähettämisen asetukset"
+
+#: admin/partials/edit-form.php:757
+msgid "Update Existing Subscriber"
+msgstr "Päivitetään aiemmin liittynyt"
+
+#: admin/partials/edit-form.php:748
+msgid "When a user signs up, should they receive the default welcome email?"
+msgstr "Kun käyttäjä liittyy, lähetetäänkö hänelle oletus tervetuloa -sähköposti?"
+
+#: admin/partials/edit-form.php:746 admin/partials/edit-form.php:760
+#: admin/partials/edit-form.php:776 admin/partials/edit-form.php:796
+#: admin/partials/edit-form.php:811 admin/partials/edit-form.php:826
+#: admin/partials/menu/options-sections/integration-settings.php:184
+#: public/classes/checkbox-integrations/class.contact_form_7-checkbox.php:54
+msgid "No"
+msgstr "Ei"
+
+#: admin/partials/edit-form.php:743
+msgid "Send Welcome Email"
+msgstr "Lähetä Tervetuloa-sähköposti"
+
+#: admin/partials/edit-form.php:745 admin/partials/edit-form.php:759
+#: admin/partials/edit-form.php:775 admin/partials/edit-form.php:795
+#: admin/partials/edit-form.php:810 admin/partials/edit-form.php:825
+#: admin/partials/menu/options-sections/integration-settings.php:183
+#: includes/third-party-integrations/visual-composer/visual-composer.php:54
+#: includes/third-party-integrations/visual-composer/visual-composer.php:65
+#: public/classes/checkbox-integrations/class.contact_form_7-checkbox.php:54
+msgid "Yes"
+msgstr "Kyllä"
+
+#: admin/partials/edit-form.php:734
+msgid "Double opt-in requires users to confirm their email address before being added to a list (recommended)"
+msgstr "Varmennettu liittyminen tarkoittaa, että käyttäjän on vahvistettava sähköpostiosoitteensa ennen kuin hänet lisätään listalle (suositus)"
+
+#: admin/partials/edit-form.php:731
+msgid "Single"
+msgstr "Yksinkertainen"
+
+#: admin/partials/edit-form.php:732
+msgid "Double"
+msgstr "Varmennettu"
+
+#: admin/partials/edit-form.php:712
+msgid "Create a new list"
+msgstr "Luo uusi lista"
+
+#: admin/partials/edit-form.php:719
+msgid "Opt-in Settings"
+msgstr "Liittymisen/tilaamisen asetukset"
+
+#: admin/partials/edit-form.php:729
+msgid "Single or Double Opt-in"
+msgstr "Yksinkertainen vai varmennettu liittyminen"
+
+#: admin/partials/edit-form.php:708
+msgid "Users who sign up via this form will be added to the list selected above."
+msgstr "Tällä lomakkeella liittyvät käyttäjät lisätään yllä valittuun listaan."
+
+#: admin/partials/edit-form.php:712
+msgid "It looks like you first need to create a list to assign this form to. Head over to"
+msgstr "Näyttää siltä, että sinun on ensin luotava lista johon tämä lomake liitetään. Siirry tänne"
+
+#: admin/partials/edit-form.php:698
+msgid "No Lists Found"
+msgstr "Listoja ei löytynyt"
+
+#: admin/partials/edit-form.php:219 admin/partials/edit-form.php:662
+msgid "Form Settings"
+msgstr "Lomakkeen asetukset"
+
+#: admin/partials/edit-form.php:666
+msgid "Edit Another Form"
+msgstr "Muokkaa toista lomaketta"
+
+#: admin/partials/edit-form.php:676 admin/partials/menu/manage-forms.php:171
+msgid "Shortcode"
+msgstr "Lyhytkoodi"
+
+#: admin/partials/edit-form.php:683
+msgid "Associated List Settings"
+msgstr "Liitettävä lista -asetuksia"
+
+#: admin/partials/edit-form.php:625
+msgid "The message displayed to the user after a generic error has occurred."
+msgstr "Tämä viesti näytetään käyttäjälle kun on tapahtunut yleinen virhe."
+
+#: admin/partials/edit-form.php:626
+msgid "The message displayed to the user after they have entered a non-valid email address."
+msgstr "Tämä viesti näytetään käyttäjälle kun hän on kirjoittanut epäkelvon sähköpostiosoitteen."
+
+#: admin/partials/edit-form.php:624
+msgid "The message displayed to the user after they have submitted the form and the data has been successfully sent to MailChimp."
+msgstr "Tämä viesti näytetään käyttäjälle kun hän on lähettänyt lomakkeen ja tietojen lähetys MailChimp-palveluun onnistui."
+
+#: admin/partials/edit-form.php:620
+msgid "Error Message Explanation"
+msgstr "Virheviestin selitys"
+
+#: admin/partials/edit-form.php:596 admin/partials/edit-form.php:626
+msgid "Invalid Email"
+msgstr "Sähköpostiosoite ei kelpaa"
+
+#: admin/partials/edit-form.php:600 admin/partials/edit-form.php:627
+msgid "Email Already Subscribed"
+msgstr "Sähköpostiosoitteella on jo tilattu"
+
+#: admin/partials/edit-form.php:592 admin/partials/edit-form.php:625
+msgid "General Error Message"
+msgstr "Yleinen virheviesti"
+
+#: admin/partials/edit-form.php:588 admin/partials/edit-form.php:624
+msgid "Success Message"
+msgstr "Liittyminen onnistui"
+
+#: admin/partials/edit-form.php:580
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:22
+msgid "The provided email is already subscribed to this list."
+msgstr "Tällä sähköpostiosoitteella on jo liitytty tälle postituslistalle."
+
+#: admin/partials/edit-form.php:585
+msgid "Enter your custom messages for this form below. Leave the field blank to use the default global error message."
+msgstr "Voit kirjoittaa alle tähän lomakkeeseen liitetettävät omat viestit. Kun jätät kentän tyhjäksi, käytetään oletusviestiä."
+
+#: admin/partials/edit-form.php:579
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:21
+#: public/partials/shortcodes/process/process_form_submission.php:250
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:245
+msgid "Please provide a valid email address."
+msgstr "Kirjoita kelvollinen sähköpostiosoite."
+
+#: admin/partials/edit-form.php:578
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:20
+msgid "Whoops! It looks like something went wrong. Please try again."
+msgstr "Oho! Näyttää siltä että tämä ei onnistunut. Yritä uudelleen, ole hyvä."
+
+#: admin/partials/edit-form.php:281
+msgid "No Interest Groups Exist"
+msgstr "Ryhmiä ei ole"
+
+#: admin/partials/edit-form.php:305
+msgid "Select an interest group below to add to the form builder."
+msgstr "Valitse ryhmä alla ja voit lisätä sen lomakkeeseen."
+
+#: admin/partials/edit-form.php:273
+msgid "Form Fields &amp; Interest Groups"
+msgstr "Lomakkeen kentät & Ryhmät"
+
+#: admin/partials/edit-form.php:277 admin/partials/view-list.php:347
+msgid "Form Fields"
+msgstr "Lomake kentät"
+
+#: admin/partials/edit-form.php:279 admin/partials/edit-form.php:281
+msgid "Interest Groups"
+msgstr "Ryhmät"
+
+#: admin/partials/edit-form.php:253
+msgid "Clear Form Fields"
+msgstr "Tyhjennä lomakkeen kentät"
+
+#: admin/partials/edit-form.php:260 admin/partials/edit-form.php:859
+msgid "Update Form"
+msgstr "Päivitä lomake"
+
+#: admin/partials/edit-form.php:222 admin/partials/edit-form.php:571
+msgid "Custom Messages"
+msgstr "Mukauta viestejä"
+
+#: admin/partials/edit-form.php:246
+msgid "Select fields from the right to add to this form, you can click a field to reveal advanced options, or drag it to re-arrange its position in the form."
+msgstr "Valitse oikealta kentät jotka lisätään tähän lomakkeeseen. Edistyneet valinnat näet kun napsautat kenttää tai voit siirtää sen paikkaa vetämällä."
+
+#: admin/partials/edit-form.php:215
+msgid "Customize Form Fields"
+msgstr "Mukauta lomakkeen kenttiä"
+
+#: admin/partials/edit-form.php:215 admin/partials/edit-form.php:245
+msgid "Form Builder"
+msgstr "Lomakerakentaja"
+
+#: admin/partials/edit-form.php:222
+msgid "Customize Form Messages"
+msgstr "Mukauta lomakkeen viestejä"
+
+#: admin/partials/edit-form.php:200
+msgid "To display the number of subscribers for the list associated with this form, use %s in the form description field above."
+msgstr "Kun haluat näyttää lomakkeeseen liitetyn listan tilaajat, käytä %s-lyhytkoodia Lomakkeen kuvaus -kentässä."
+
+#: admin/partials/edit-form.php:164
+msgid "Update this MailChimp form's fields, styles and settings below."
+msgstr "Päivitä alla tämän MailChimp lomakkeen kenttiä, tyylejä ja asetuksia."
+
+#: admin/partials/edit-form.php:170
+msgid "Opt-in form successfully updated."
+msgstr "Liittymislomake päivitettiin."
+
+#: admin/partials/edit-form.php:193
+msgid "The title of this signup form."
+msgstr "Tämän liittymislomakkeen otsikko."
+
+#: admin/partials/edit-form.php:199
+msgid "Descriptions are optional and you may choose to display it to visitors to your site."
+msgstr "Kuvaus on valinnainen. Voit näyttää sen sivuston vierailijoille."
+
+#: admin/partials/edit-form.php:159 admin/partials/menu/account-details.php:85
+#: admin/partials/menu/add-ons.php:10 admin/partials/menu/lists.php:46
+#: admin/partials/menu/manage-forms.php:47
+#: admin/partials/menu/manage-lists.php:35 admin/partials/menu/options.php:28
+#: admin/partials/view-list.php:149 admin/partials/view-user.php:167
+msgid "Freddie - MailChimp Mascot"
+msgstr "Freddie - MailChimp-lisäosan maskotti"
+
+#: admin/partials/edit-form.php:161 admin/partials/menu/manage-forms.php:168
+#: public/partials/shortcodes/process_form_shortcode.php:249
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: admin/partials/edit-form.php:125
+msgid "No Interest Groups Found"
+msgstr "Ryhmiä ei löytynyt"
+
+#: admin/partials/edit-form.php:136
+msgid "Oh No!"
+msgstr "Voi ei!"
+
+#: admin/partials/edit-form.php:142
+msgid "We've encountered an error. Please try again. If the error persists, please contact support."
+msgstr "Tuli virhe. Yritä uudelleen, ole hyvä. Jos virhe jatkuvasti toistuu, ota yhteyttä tukeen."
+
+#: admin/partials/edit-form.php:27
+msgid "debug settings page"
+msgstr "testaustila asetukset sivu"
+
+#: admin/partials/edit-form.php:27 admin/partials/edit-form.php:136
+#: admin/partials/edit-form.php:142
+#: public/partials/shortcodes/process/process_form_submission.php:49
+#: public/partials/shortcodes/process/process_form_submission_ajax.php:69
+msgid "Error"
+msgstr "Virhe"
+
+#: admin/partials/edit-form.php:11
+msgid "Please try again. If the error persists please get in contact with the YIKES Inc. support team."
+msgstr "Yritä uudelleen, ole hyvä. Jos virhe jatkuvasti toistuu ota yhteyttä YIKES Inc. yrityksen tukitiimiin."
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:34
+msgid "avg. sub. rate"
+msgstr "keskimääräinen tilaus%"
+
+#: admin/partials/edit-form.php:9 admin/partials/edit-form.php:11
+msgid "Error Creating Form"
+msgstr "Virhe, kun lomaketta luotiin"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:32
+msgid "Average number of subscribers per month."
+msgstr "Kuukaudessa keskimäärin tilaajia kpl."
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:22
+msgid "Number of users who have unsusbscribed."
+msgstr "Tilauksen peruttaneita kpl."
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:24
+msgid "unsubscribed"
+msgstr "tilauksen peruuttanut"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:28
+msgid "Number of new subscribers since the last campaign was sent."
+msgstr "Uusien tilaajien lukumäärä, edellisen postituskampanjan jälkeen."
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:18
+msgid "Number of active subscribers."
+msgstr "Tilaajien lukumäärä."
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:20
+msgid "subscribers"
+msgstr "tilaajaa"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:11
+msgid "Unsubscribed"
+msgstr "Tilaus peruttu"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:13
+msgid "Avg. Sub. Rate"
+msgstr "Keskimääräinen tilaus%"
+
+#: admin/partials/dashboard-widgets/templates/account-activity-template.php:7
+msgid "Message"
+msgstr "Viesti"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:5
+msgid "view List"
+msgstr "näytä Lista"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:5
+msgid "view list"
+msgstr "näytä lista"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:10
+msgid "Subscribers"
+msgstr "Tilaajat"
+
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:93
+msgid "Select a list"
+msgstr "Valitse lista"
+
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:101
+msgid "Select a list from the dropdown above. View statistics related to this list below."
+msgstr "Valitse lista pudotusvalikosta yllä. Alla näytetään siihen liittyvät tilastot."
+
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:113
+msgid "Whoops, you don't have any lists set up. Head over to MailChimp to set up lists."
+msgstr "Oho! Yhtään listaa ei ole määritetty. Siirry MailChimp.com sivustolle ja lisää listat."
+
+#: admin/partials/dashboard-widgets/templates/account-activity-template.php:6
+msgid "Type"
+msgstr "Laji"
+
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:51
+msgid "MailChimp Account Activity"
+msgstr "MailChimp-tilin tapahtumat"
+
+#: admin/partials/ajax/add_field_to_form.php:39
+#: admin/partials/ajax/add_interest_group_to_form.php:44
+msgid "Expand Field"
+msgstr "Laajenna kenttä"
+
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:23
+msgid "Preloader"
+msgstr "Esilataaja"
+
+#: admin/partials/dashboard-widgets/class.list-activity-widget.php:45
+msgid "MailChimp List Stats"
+msgstr "MailChimp-listojen tilastot"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2443
+msgid "Creating a new form"
+msgstr "Uuden lomakkeen luonti"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2443
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:15
+msgid "Forms"
+msgstr "Lomakkeet"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2304
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2308
+msgid "required field"
+msgstr "vaadittu kenttä"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2313
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2348
+msgid "Add to Form Builder"
+msgstr "Lisää lomakerakentajaan"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2304
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2339
+msgid "Already assigned to your form"
+msgstr "On jo sijoitettu lomakkeelle"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2263
+msgid "You can use any of the following tags to populate a MailChimp text field with dynamic content. This can be used to determine which page the user signed up on, if the user was logged in and more."
+msgstr "Voit käyttää mitä tahansa seuraavista tägeistä joilla MailChimp-tekstikenttä voidaan täyttää dynaamisella sisällöllä. Näin voidaan saada tietoa millä sivulla käyttäjä liittyi postituslistalle, oliko käyttäjä kirjautuneena ja myös muuta."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2234
+msgid "Detects if a user is logged in and pre-populates the field with an appropriate value."
+msgstr "Tunnistaa onko käyttäjä kirjautuneena ja esitäyttää kentän sopivalla arvolla."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2262
+msgid "Pre Defined Tags"
+msgstr "Ennalta asetetut avainsanat"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2229
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2230
+msgid "Blog Name"
+msgstr "Blogin nimi"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2229
+msgid "Pre-populate the field with the current blog name that the user is on when opting in to your mailing list. This is especially helpful for multi-site networks."
+msgstr "Esitäytä kenttä sen blogin nimellä jolla henkilö on kun hän liittyy postituslistalle. Tämä on erityisen hyödyllistä monen sivuston (multisite) verkostossa."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2234
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2235
+msgid "User Logged In"
+msgstr "Käyttäjä kirjautunut"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2224
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2225
+msgid "Page URL"
+msgstr "Sivun verkko-osoite/URL"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2224
+msgid "Pre-populate the field with the current page URL that the user is on when opting in to your mailing list."
+msgstr "Esitäytä kenttä sen sivun verkko-osoitteella/URL jolla henkilö on kun hän liittyy postituslistalle."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2219
+msgid "Pre-populate the field with the current page or post ID that the user is on when opting in to your mailing list."
+msgstr "Esitäytä kenttä sen sivun- tai artikkelin tunnuksella/ID jolla henkilö on kun hän liittyy postituslistalle."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2219
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2220
+msgid "Page ID"
+msgstr "Sivun tunnus/ID"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2214
+msgid "Pre-populate the field with the current page or post title that the user is on when opting in to your mailing list."
+msgstr "Esitäytä kenttä sen sivun- tai artikkelin otsikolla jolla henkilö on kun hän liittyy postituslistalle."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2203
+msgid "No fields are assigned to this form. Select fields from the right hand column to add to this form."
+msgstr "Lomakkeeseen ei ole sijoitettu kenttiä. Lisää kenttiä valitsemalla ne oikeanpuoleisesta sarakkeesta."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2214
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2215
+msgid "Page Title"
+msgstr "Sivun otsikko"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2126
+#: admin/partials/ajax/add_field_to_form.php:222
+#: admin/partials/ajax/add_interest_group_to_form.php:148
+msgid "Enter the description for the form field. This will be displayed to the user and provide some direction on how the field should be filled out or selected."
+msgstr "Kirjoita kuvaus lomakkeen kentälle. Tämä näytetään käyttäjälle ja se tarjoaa osviittaa kuinka kenttä tulisi täyttää tai kuinka valita."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2044
+msgid "This field no longer exists in this list. Delete this field from the form to prevent issues on the front end."
+msgstr "Tässä listassa ei ole enää tätä kenttää. Poista lomakkeesta tämä kenttä jotta vältät ongelmia sivuston julkisella puolella."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2014
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2189
+#: admin/partials/ajax/add_field_to_form.php:334
+#: admin/partials/ajax/add_interest_group_to_form.php:208
+#: admin/partials/ajax/process_ajax.php:182
+msgid "Remove Field"
+msgstr "Poista kenttä"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2013
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2188
+#: admin/partials/ajax/add_field_to_form.php:333
+#: admin/partials/ajax/add_interest_group_to_form.php:207
+#: admin/partials/ajax/process_ajax.php:181
+msgid "Close"
+msgstr "Sulje"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1981
+#: admin/partials/ajax/add_field_to_form.php:301
+msgid "Phone Format"
+msgstr "Puhelinnumeron muoto"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1982
+#: admin/partials/ajax/add_field_to_form.php:302
+msgid "International"
+msgstr "Kansainvälinen"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1994
+#: admin/partials/ajax/add_field_to_form.php:314
+msgid "To change the %s please head over to <a href=\"%s\" title=\"MailChimp\" target=\"_blank\">MailChimp</a>. If you alter the format, you should re-import this field."
+msgstr "Kun haluat muuttaa %s, niin siirry <a href=\"%s\" title=\"MailChimp.com-palvelu\" target=\"_blank\">MailChimp.com-palveluun</a>. Jos muutat tätä, on kenttä tuotava uudelleen tähän lisäosaan."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1969
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1975
+#: admin/partials/ajax/add_field_to_form.php:289
+#: admin/partials/ajax/add_field_to_form.php:295
+msgid "Date Format"
+msgstr "Päiväyksen muoto"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1950
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2178
+#: admin/partials/ajax/add_field_to_form.php:270
+#: admin/partials/ajax/add_interest_group_to_form.php:197
+msgid "Toggle field label visibility."
+msgstr "Vaihda kentän nimen näkyvyys."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1944
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2172
+#: admin/partials/ajax/add_field_to_form.php:265
+#: admin/partials/ajax/add_interest_group_to_form.php:192
+msgid "Hide Label"
+msgstr "Piilota nimi/tunnus"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1937
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2165
+#: admin/partials/ajax/add_field_to_form.php:258
+#: admin/partials/ajax/add_interest_group_to_form.php:185
+#: admin/partials/ajax/process_ajax.php:171
+msgid "Hide this field from being displayed on the front end."
+msgstr "Piilota tämä kenttä julkisella puolella."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1931
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2159
+#: admin/partials/ajax/add_field_to_form.php:253
+#: admin/partials/ajax/add_interest_group_to_form.php:180
+#: admin/partials/ajax/process_ajax.php:166
+msgid "Hide Field"
+msgstr "Piilota kenttä"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1936
+#: admin/partials/ajax/add_field_to_form.php:257
+#: admin/partials/ajax/process_ajax.php:170
+msgid "Cannot toggle email field visibility."
+msgstr "Sähköpostikentän näkyvyyttä ei voi vaihtaa."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1924
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2152
+#: admin/partials/ajax/add_field_to_form.php:246
+#: admin/partials/ajax/add_interest_group_to_form.php:173
+#: admin/partials/ajax/process_ajax.php:159
+msgid "Require this field to be filled in before the form can be submitted."
+msgstr "Vaadi tämän kentän täyttäminen ennen kuin lomake voidaan lähettää."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1923
+#: admin/partials/ajax/add_field_to_form.php:245
+#: admin/partials/ajax/process_ajax.php:158
+msgid "Email is a required field."
+msgstr "Sähköpostikenttä tarvitaan."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1918
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2146
+#: admin/partials/ajax/add_field_to_form.php:241
+#: admin/partials/ajax/add_interest_group_to_form.php:168
+#: admin/partials/ajax/process_ajax.php:154
+msgid "Field Required?"
+msgstr "Vaadittava kenttä?"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1911
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2139
+#: admin/partials/ajax/add_field_to_form.php:234
+#: admin/partials/ajax/add_interest_group_to_form.php:161
+#: admin/partials/ajax/process_ajax.php:147
+msgid "View bundled classes"
+msgstr "Tutustu valmiisiin CSS-luokkiin"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1911
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2139
+#: admin/partials/ajax/add_field_to_form.php:234
+#: admin/partials/ajax/add_interest_group_to_form.php:161
+#: admin/partials/ajax/process_ajax.php:147
+msgid "Assign additional classes to this field. %s."
+msgstr "Voit kirjoittaa tähän valmiin CSS-muotoilun tunnuksen, esim. 'option-height-25'. %s"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1906
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2134
+#: admin/partials/ajax/add_field_to_form.php:229
+#: admin/partials/ajax/add_interest_group_to_form.php:156
+#: admin/partials/ajax/process_ajax.php:142
+msgid "Additional Classes"
+msgstr "CSS-lisämuotoilut"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1899
+msgid "Enter the description for the form field. This will be displayed to the user and will provide some direction on how the field should be filled out or selected."
+msgstr "Kirjoita kuvaus lomakkeen kentälle. Tämä näytetään käyttäjälle ja se tarjoaa osviittaa kuinka kenttä tulisi täyttää tai kuinka valita."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1894
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2121
+#: admin/partials/ajax/add_field_to_form.php:217
+#: admin/partials/ajax/add_interest_group_to_form.php:143
+msgid "Description"
+msgstr "Kuvaus"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1874
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2107
+#: admin/partials/ajax/add_field_to_form.php:203
+#: admin/partials/ajax/add_interest_group_to_form.php:129
+#: admin/partials/ajax/process_ajax.php:128
+msgid "Which option should be selected by default?"
+msgstr "Mikä vaihtoehto valitaan oletuksena?"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1853
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2086
+#: admin/partials/ajax/add_field_to_form.php:180
+#: admin/partials/ajax/add_interest_group_to_form.php:82
+#: admin/partials/ajax/add_interest_group_to_form.php:106
+#: admin/partials/ajax/process_ajax.php:105
+msgid "Select the option that should be selected by default."
+msgstr "Valtse vaihtoehto joka on oletuksena valittuna."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1842
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1865
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2067
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2098
+#: admin/partials/ajax/add_field_to_form.php:167
+#: admin/partials/ajax/add_field_to_form.php:192
+#: admin/partials/ajax/add_interest_group_to_form.php:70
+#: admin/partials/ajax/add_interest_group_to_form.php:94
+#: admin/partials/ajax/add_interest_group_to_form.php:118
+#: admin/partials/ajax/process_ajax.php:96
+#: admin/partials/ajax/process_ajax.php:117
+msgid "Default Selection"
+msgstr "Oletus valinta"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1828
+#: admin/partials/ajax/add_field_to_form.php:153
+msgid "View Pre-Defined Tags"
+msgstr "Näytä esiasetetut avainsanat"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1823
+#: admin/partials/ajax/add_field_to_form.php:148
+#: admin/partials/ajax/process_ajax.php:85
+msgid "Assign a default value to populate this field with on initial page load."
+msgstr "Aseta tälle kentälle oletusarvo, jolla kenttä täytetään kun sivu näytetään."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1818
+#: admin/partials/ajax/add_field_to_form.php:143
+#: admin/partials/ajax/process_ajax.php:80
+msgid "Default Value"
+msgstr "Oletusarvo"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1800
+#: admin/partials/ajax/add_field_to_form.php:95
+#: admin/partials/ajax/process_ajax.php:68
+msgid "Assign a placeholder value to this field."
+msgstr "Aseta paikanvarauksen arvo/teksti tälle kentälle."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1795
+#: admin/partials/ajax/add_field_to_form.php:90
+#: admin/partials/ajax/process_ajax.php:63
+msgid "Placeholder"
+msgstr "Paikanvaraus"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1771
+#: admin/partials/ajax/add_field_to_form.php:64
+msgid "Merge Tag"
+msgstr "Tunnus kun sijoitetaan"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1741
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2037
+#: admin/partials/ajax/add_field_to_form.php:40
+#: admin/partials/ajax/add_interest_group_to_form.php:45
+#: admin/partials/ajax/process_ajax.php:41
+msgid "type"
+msgstr "laji"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1747
+msgid "This field no longer exists in this list. Delete this field from the form to prevent issues on your website."
+msgstr "Tässä listassa ei ole enää tätä kenttää. Poista lomakkeesta tämä kenttä jotta vältät ongelmia sivustolla."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1739
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2035
+msgid "Field no longer exists."
+msgstr "Kenttää ei ole (enää)"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1695
+msgid "We've encountered an error. Reload the page and try again. If the error persists, please reach out to support."
+msgstr "Tapahtui virhe. Päivitä sivu ja yritä uudelleen. Jos virhe jatkuvasti toistuu, ota yhteyttä tukeen."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1664
+msgid "Check out available add-ons for some seriously enhanced features."
+msgstr "Tutustu saatavilla oleviin laajennuksiin joissa todella parannettuja ominaisuuksia."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1691
+msgid "We've encountered an error. No list ID was sent."
+msgstr "Tuli virhe. Listan tunnusta/ID ei lähetty."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1655
+msgid "About YIKES"
+msgstr "Tietoja YIKES"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1662
+msgid "Easy Forms for MailChimp Add-Ons"
+msgstr "MailChimp helpot lomakkeet -lisäosan laajennuksia"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1655
+msgid "Show YIKES Some Love"
+msgstr "Osoita rakkautta YIKESille"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1641
+msgid "Vote for Compatibility"
+msgstr "Ilmoita version toimivuus"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1646
+msgid "This plugin made with %s by %s"
+msgstr "Lisäosan teki %s:lla %s"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1620
+msgid "Leave a review"
+msgstr "Kirjoita arvio"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1632
+msgid "Tweet about it"
+msgstr "Twiittaa lisäosasta"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1638
+msgid "Vote that the plugin works"
+msgstr "Kerro että lisäosa toimii"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1519
+msgid "general settings"
+msgstr "yleiset asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1547
+msgid "Select A Page or Post"
+msgstr "Valitse sivu tai artikkeli"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1616
+msgid "About YIKES Inc."
+msgstr "Tietoja YIKES Inc."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1616
+msgid "Show YIKES Inc. Some Love"
+msgstr "Osoita rakkautta YIKES Inc:ille"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1517
+msgid "Please enter a valid MailChimp API key to get started."
+msgstr "Kirjoita kelvollinen MailChimp rajapinnan/API:n avain jotta päästään aloittamaan."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1515
+msgid "Create"
+msgstr "Luo"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1506
+msgid "Head over to <a href=\"http://www.MailChimp.com\" title=\"%s\">MailChimp</a> to create a new list."
+msgstr "Siirry <a href=\"http://www.MailChimp.com\" title=\"%s\">MailChimp-palveluun</a> ja luo uusi lista."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1506
+msgid "Create a list"
+msgstr "Luo lista"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1467
+#: admin/partials/edit-form.php:687
+#: admin/partials/menu/options-sections/integration-settings.php:160
+msgid "Associated List"
+msgstr "Liitetään listaan"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1479
+msgid "Please enter a valid API key."
+msgstr "Kirjoita kelvollinen API-avain"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1483
+msgid "No lists were found on the account."
+msgstr "Tilillä ei ollut listoja"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1459
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1460
+#: admin/partials/edit-form.php:191 admin/partials/menu/lists.php:81
+#: admin/partials/menu/manage-forms.php:128
+#: admin/partials/menu/manage-forms.php:143
+msgid "Form Name"
+msgstr "Lomakkeen nimi"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1463
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1464
+#: admin/partials/edit-form.php:197 admin/partials/menu/manage-forms.php:129
+#: admin/partials/menu/manage-forms.php:144
+msgid "Form Description"
+msgstr "Lomakkeen kuvaus"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1408
+#: admin/partials/menu/options-sections/debug-settings.php:7
+msgid "Debug Settings"
+msgstr "Testaustilan asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1409
+msgid "Import/Export"
+msgstr "Tuo/vie"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1416
+msgid "Addon Settings"
+msgstr "Laajennuksen asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1450
+msgid "Create a New Signup Form"
+msgstr "Luo uusi liittymislomake"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1454
+msgid "Give your form a name, select a MailChimp list to assign users to, then click 'Create'."
+msgstr "Kirjoita lomakkeelle nimi, liitä siihen MailChimp lista josta otetaan käyttäjät, sitten klikkaa 'Luo'."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1407
+#: admin/partials/menu/options-sections/api-cache-settings.php:6
+msgid "API Cache Settings"
+msgstr "API-välimuistin asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1405
+#: admin/partials/menu/options-sections/integration-settings.php:79
+msgid "Integration Settings"
+msgstr "Palveluliitosten asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1404
+#: admin/partials/menu/options-sections/general-settings.php:11
+#: admin/partials/menu/options-sections/integration-settings.php:116
+#: admin/partials/menu/options.php:30
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1292
+msgid "Perform Migration"
+msgstr "Suorita siirto"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1296
+msgid "Dismiss Notice"
+msgstr "Piilota tämä huomautus"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1401
+msgid "Additional Settings"
+msgstr "Lisäasetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1287
+msgid "It's also strongly recommended that you take a backup of your database."
+msgstr "Suositteleme myös vahvasti että teet tietokannasta varmuuskopion."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1286
+msgid "Before you continue, it's strongly recommended you the perform the migration to ensure the plugin continues to function properly."
+msgstr "Ennen kuin jatkat, suositteleme painokkaasti että suoritat siirtymisen (uuteen versioon) jotta lisäosa toimii jatkossa oikein."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1285
+msgid "In the newest version of %s, the options data structure has changed. We've also moved the mailing lists into its own database table to allow for some higher level customization. Now you can easily create multiple forms and assign them to the same mailing list."
+msgstr "%s-lisäosan uusimmassa versiossa valintojen tietorakenne on muuttunut. Olemme lisäksi siirtäneet postituslistat tietokannan omaan tauluun jolloin laajempi mukauttaminen on mahdollista. Nyt voit helposti luoda useita lomakkeita ja liittää ne samaan postituslistaan."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1285
+msgid "It looks like you're upgrading from a previous version of %s."
+msgstr "Näyttää siltä, että olet päivittässä aiemmasta %s-versiosta."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1279
+msgid "The previously stored options for %s have been cleared from the database. You should update the plugin options on the <a href='%s' title='Settings Page'>settings page</a> before continuing. You should also update the shortcodes used to generate your forms, and any widgets you may have previously set-up."
+msgstr "Tietokannasta on poistettu aiemmin tallennetut %s:n vaihtoehdot. Lisäosan valinnat on päivitettävä <a href='%s' title='Asetukset sivu'>Asetukset sivulla</a> ennen kuin jatkat. Myös lyhytkoodit joilla lomakkeet on tehty on päivitettäva kuten myös vimpaimet jotka olet aiemmin asettanut."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1181
+msgid "Settings Page/General Settings"
+msgstr "Asetukset sivu/Yleiset asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1181
+msgid "Connecting to MailChimp"
+msgstr "Yhdistäminen MailChimp-palveluun"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1133
+#: admin/partials/menu/options-sections/debug-settings.php:16
+msgid "Enable Debugging"
+msgstr "Ota testaustila käyttöön"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1077
+msgid "Select Checkboxes to Generate"
+msgstr "Valitse valintaruudut jotka tehdään"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1056
+#: admin/partials/menu/options-sections/general-settings.php:26
+#: admin/partials/menu/options-sections/general-settings.php:28
+msgid "MailChimp API Key"
+msgstr "MailChimp rajapinnan/API:n avain"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1047
+msgid "API Connection"
+msgstr "Rajapinnan/API:n yhteys"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:936
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:937
+msgid "View User"
+msgstr "Näytä käyttäjä"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:926
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:927
+#: admin/partials/edit-form.php:705 admin/partials/view-user.php:175
+msgid "View List"
+msgstr "Näytä lista"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:916
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:917
+msgid "Welcome"
+msgstr "Tervetuloa"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:906
+msgid "YIKES Inc. Easy Forms for MailChimp Upgrade Options Structure"
+msgstr "YIKES Inc. Easy Forms for MailChimp -lisäosan päivitys vaihtoehtojen rakenne."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:896
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:897
+#: public/partials/shortcodes/process_form_shortcode.php:249
+msgid "Edit Form"
+msgstr "Muokkaa lomaketta"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:884
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:885
+#: admin/partials/menu/add-ons.php:12
+#: admin/partials/welcome-page/welcome.php:20
+msgid "Add-Ons"
+msgstr "Laajennukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:874
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:875
+#: admin/partials/menu/support.php:13
+msgid "Support"
+msgstr "Tuki"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:852
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:853
+msgid "Account"
+msgstr "Tili"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:832
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:833
+msgid "Mailing Lists"
+msgstr "Postituslistat"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:676
+msgid "No fields assigned to this form. Select some fields to add to this form from the right hand column."
+msgstr "Tähän lomakkeeseen ei ole määritetty kenttiä. Valitse oikealla olevasta sarakkeesta kenttiä, jotka haluat lisätä tähän lomakkeeseen."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:677
+msgid "Are you sure you want to delete all of the fields assigned to this form?"
+msgstr "Haluatko varmasti poistaa kaikki kentät jotka on sijoitettu tälle lomakkeelle?"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:806
+msgid "Easy Forms"
+msgstr "Helpot lomakkeet"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:822
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:823
+msgid "Opt-in Forms"
+msgstr "Liittymislomakkeet"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:657
+msgid "Locating Interest Groups"
+msgstr "Haetaan ryhmiä"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:581
+#: admin/partials/front-end-widgets/front-end-widget-form.php:78
+msgid "Create a form"
+msgstr "Luo lomake"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:581
+msgid "You need to <a href=\"%s\" title=\"%s\">create a form</a> before you can add one to a page or post."
+msgstr "Ensin on <a href=\"%s\" title=\"%s\">luotava lomake</a> jotta voit liittää lomakkeen artikkeliin tai sivuun."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:577
+#: includes/third-party-integrations/visual-composer/visual-composer.php:62
+msgid "Display Form Description"
+msgstr "Näytä lomakkeen kuvaus"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:578
+#: admin/partials/edit-form.php:398
+#: admin/partials/welcome-page/welcome-sections/whats-new-section.php:16
+#: includes/third-party-integrations/visual-composer/visual-composer.php:73
+msgid "Submit Button Text"
+msgstr "Lähetä painikkeen teksti"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:576
+#: includes/third-party-integrations/visual-composer/visual-composer.php:51
+msgid "Display Form Title"
+msgstr "Näytä lomakkeen otsikko"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:575
+#: includes/third-party-integrations/visual-composer/visual-composer.php:42
+msgid "MailChimp Opt-In Form"
+msgstr "MailChimp postituslistalle liittymislomake"
+
+#. #-#-#-#-#  tmp-yikes-inc-easy-mailchimp-extender.pot (Easy Forms for
+#. MailChimp by YIKES 6.1.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:573
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:574
+#: includes/third-party-integrations/visual-composer/visual-composer.php:87
+msgid "Easy Forms for MailChimp by YIKES"
+msgstr "Easy Forms for MailChimp by YIKES"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:562
+#: includes/third-party-integrations/visual-composer/visual-composer.php:104
+msgid "Please Import Some MailChimp Lists"
+msgstr "Tuo joitakin MailChimp listoja, ole hyvä."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:504
+msgid "YIKES Inc. Easy Forms for MailChimp requires a minimum of PHP 5.3. The plugin will not function properly until you update. Reach out to your host provider for assistance."
+msgstr "YIKES Inc. Easy Forms for MailChimp -lisäosa tarvitsee vähintään PHP version 5.3. Lisäosa ei toimi tarkoitetulla tavalla ennen kuin päivität. Ota yhteyttä palvelimen ylläpitäjään ja pyydä heiltä apua."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:476
+msgid "It looks like you've been using %s for 2 weeks now. We hope you're enjoying the features included with the free version. If so, please consider leaving us a review. Reviews only help to catch other users attention as well as provide us with feedback to grow and improve upon. If you're really enjoying the plugin, consider buying an add-on or developer license for some really awesome features and premium support."
+msgstr "Näyttää siltä, että olet käyttänyt %s-lisäosaa nyt 2 viikkoa. Toivomme, että olet nauttinut maksuttoman version ominaisuuksista. Jos niin on, tekisitkö lisäosasta tuotearvion. Tuotearviot kiinnittävät muiden käyttäjien huomion ja antavat meille palautetta jolloin voimme kasvattaa ja parantaa lisäosaa. Jos todella nautit lisäosasta, harkitse laajennuksen tai kehittäjän lisenssin hankkimista jolloin saat todella hienoja ominaisuuksia ja ensiluokkaisen tuen."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:476
+msgid "Dismiss"
+msgstr "Piilota tämä huomautus."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:476
+msgid "Leave A Review"
+msgstr "Kirjoita arvio"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:359
+msgid "We encountered an error. Please contact the YIKES Inc. support team."
+msgstr "Tapahtui virhe. Ota yhteyttä YIKES Inc. yrityksen tukitiimiin."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:289
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:314
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:337
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2466
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2495
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2543
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2679
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2740
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2780
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2805
+msgid "Failed nonce validation"
+msgstr "Kertakäyttöavaimen vahvistus epäonnistui"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:289
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:314
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:337
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2362
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2466
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2495
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2543
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2679
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2740
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2780
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:2805
+msgid "We've run into an error. The security check didn't pass. Please try again."
+msgstr "Tapahtui virhe. Turvallisuustarkastusta ei läpäisty. Yritä uudelleen, ole hyvä."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:206
+msgid "Thanks :)"
+msgstr "Kiitos :)"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:188
+msgid "More plugins by YIKES"
+msgstr "Muita YIKES lisäosia"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:206
+msgid "Disclaimer: <strong>Easy Forms for MailChimp by YIKES</strong> is in no way endorsed, affiliated or backed by MailChimp, or its parent company Rocket Science Group."
+msgstr "Erotuslausuma: <strong>Easy Forms for MailChimp by YIKES</strong> -lisäosa ei ole MailChimp:in tai sen pääyrityksen Rocket Science Group:in hyväksymä, sen kumppani tai sen tukema."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:187
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:865
+msgid "Settings"
+msgstr "Asetukset"
+
+#: public/partials/shortcodes/process_form_shortcode.php:60
+#: public/partials/shortcodes/process_form_shortcode.php:63
+msgid "Edit ReCaptcha Settings"
+msgstr "Muokkaa reCaptcha-asetuksia"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:27
+msgid "Optin settings screenshot"
+msgstr "Näyttökaappaus: Liittymisen asetukset"
+
+#: admin/partials/welcome-page/welcome-sections/getting-started-section.php:13
+msgid "Create first optin form screenshot"
+msgstr "Näyttökaappaus: Ensimmäisen liittymislomakkeen luonti"
+
+#: admin/partials/view-user.php:289
+msgid "Are you sure you want to delete \"%s\" from \"%s?\""
+msgstr "Oletko varma, että haluat poistaa \"%s\" täältä: \"%s?\""
+
+#: admin/partials/view-user.php:176
+msgid "Optin Forms"
+msgstr "Liittymislomakkeet"
+
+#: admin/partials/view-list.php:427
+msgid "To edit this lists segments, head over to"
+msgstr "Kun haluat muokata tämän listan lohkoja/segmenttejä, siirry"
+
+#: admin/partials/view-list.php:410
+msgid "condition #%s : If %s %s %s"
+msgstr "ehto #%s : Jos %s %s %s"
+
+#: admin/partials/view-list.php:377
+msgid "subscribers assigned to this group"
+msgstr "tilaajat sijoitettu tähän ryhmään"
+
+#: admin/partials/view-list.php:309
+msgid "month"
+msgstr "kuukausi"
+
+#: admin/partials/view-list.php:265
+msgid "of"
+msgstr "-"
+
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:141
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:206
+msgid "successfully imported."
+msgstr "tuonti onnistui."
+
+#: admin/partials/upgrade-helpers/upgrade-migrate-options.php:35
+msgid "please be patient while your options are updated and the process has completed"
+msgstr "odota kärsivällisesti kun valintoja päivitetään ja toimenpide on saatettu päätökseen"
+
+#: admin/partials/menu/support.php:36
+msgid "Submit New github.org Issue"
+msgstr "Tee uusi Github.org korjaus-/kehityspyyntö"
+
+#: admin/partials/menu/options-sections/integration-settings.php:116
+msgid "enter a valid MailChimp API key"
+msgstr "kirjoita kelvollinen MailChimp API-avain"
+
+#: admin/partials/menu/options-sections/integration-settings.php:116
+msgid "Please %s to setup your integrations."
+msgstr "Palveluliitosten asetukset %s"
+
+#: admin/partials/menu/lists.php:110
+msgid "No MailChimp lists found. Head over to"
+msgstr "MailChimp-listoja ei löytynyt. Siirry "
+
+#: admin/partials/menu/account-details.php:99
+msgid "Chimp Chatter"
+msgstr "Simpanssin pulinaa (Chimp Chatter)"
+
+#: admin/partials/front-end-widgets/front-end-widget-form.php:78
+msgid "No forms found. It looks like you need to <a href=\"%s\" title=\"%s\">%s</a>."
+msgstr "Lomakkeita ei löytynyt. Näyttää siltä, että on tarpeellista <a href=\"%s\" title=\"%s\">%s</a>."
+
+#: admin/partials/edit-form.php:712
+msgid "to create your first list"
+msgstr "luomaan ensimmäinen uusi lista"
+
+#: admin/partials/edit-form.php:577
+msgid "Thank You for subscribing! Check your email for the confirmation message."
+msgstr "Kiitos tilaamisesta! Katso sähköpostista vahvistusviesti."
+
+#: admin/partials/edit-form.php:27
+msgid "Whoops! It looks like this form doesn't exist. If this error persists you may want to toggle on debugging on the <a href='%s'>%s</a> "
+msgstr "Oho! Näyttää siltä että tätä lomaketta ei ole. Jos virhe jatkuvasti toistuu, voit asettaa lisäosan testaustilaan<a href='%s'>%s</a>"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:30
+msgid "new since send"
+msgstr "uutta lähetyksen jälkeen"
+
+#: admin/partials/dashboard-widgets/templates/stats-list-template.php:12
+msgid "New Since Send"
+msgstr "Uutta lähetyksen jälkeen"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1665
+msgid "View Add-Ons"
+msgstr "Tutustu laajennuksiin"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1652
+msgid "is a web design and development company located in Philadelphia, Pennsylvania, US. YIKES specializes in custom WordPress theme and plugin development, site maintenance, eCommerce, custom-built web-based applications and more."
+msgstr "on netin suunnittelu- ja kehitysyritys joka sijaitsee USA:ssa, Pennsylvanian osavaltion Philadelphia kaupungissa.YIKES on erikoistunut mukautettujen WordPress teemojen ja lisäosien kehittämiseen, sivustojen ylläpitoon, asiakaskohtaisiin verkkosovelluksiin ja muihin."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1406
+#: public/partials/shortcodes/process_form_shortcode.php:60
+#: public/partials/shortcodes/process_form_shortcode.php:63
+msgid "ReCaptcha Settings"
+msgstr "Roskapostin esto -asetukset"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:1113
+msgid "Enable ReCaptcha"
+msgstr "Ota reCaptcha roskapostin esto käyttöön"
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:864
+msgid "Settings."
+msgstr "Asetukset."
+
+#: admin/class-yikes-inc-easy-mailchimp-extender-admin.php:476
+msgid "View Addons"
+msgstr "Näytä laajennukset"
